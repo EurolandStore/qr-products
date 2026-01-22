@@ -1,0 +1,154 @@
+/* ======================================================
+   EUROLAND – BRAND STYLE (FINAL)
+   Fonts inspired by DITA / Proxima-style
+   Premium grocery & beverage look
+   ====================================================== */
+
+/* ---------- CSS RESET ---------- */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ---------- ROOT VARIABLES ---------- */
+:root {
+  --green-main: #0f7f5c;
+  --green-soft: #e6f7ef;
+  --green-mid: #bfe8d6;
+
+  --text-main: #1f2a25;
+  --text-muted: #4f5f58;
+
+  --bg-page: #ffffff;
+  --bg-card: #f6f7f6;
+
+  --radius-lg: 20px;
+  --radius-md: 12px;
+
+  --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+/* ---------- BODY ---------- */
+body {
+  font-family: "Inter", "Segoe UI", "Arial", sans-serif;
+  background: var(--bg-page);
+  color: var(--text-main);
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px 16px 40px;
+  line-height: 1.6;
+}
+
+/* ---------- LANGUAGE SWITCH ---------- */
+.lang {
+  text-align: center;
+  margin-bottom: 14px;
+}
+
+.lang a {
+  display: inline-block;
+  margin: 0 4px;
+  padding: 6px 10px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--green-main);
+  text-decoration: none;
+  border-radius: 8px;
+  background: var(--green-soft);
+  transition: all 0.2s ease;
+}
+
+.lang a:hover {
+  background: var(--green-mid);
+}
+
+/* ---------- HEADER / LOGO ---------- */
+.header {
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.header img {
+  max-height: 70px;
+  margin-bottom: 6px;
+}
+
+/* ---------- BRAND BANNER ---------- */
+.banner {
+  background: linear-gradient(
+    180deg,
+    #e9f8f1 0%,
+    #cfeee0 45%,
+    #a9dec5 75%,
+    #7ccfa9 100%
+  );
+  border-radius: var(--radius-lg);
+  padding: 28px 20px;
+  margin-bottom: 28px;
+  box-shadow: var(--shadow-soft);
+}
+
+/* ---------- PRODUCT IMAGE ---------- */
+.product-image {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.product-image img {
+  max-width: 100%;
+  max-height: 260px;
+  object-fit: contain;
+  border-radius: var(--radius-md);
+  background: #ffffff;
+  padding: 10px;
+}
+
+/* ---------- PRODUCT TITLE ---------- */
+h1 {
+  font-size: 28px;
+  font-weight: 800;
+  text-align: center;
+  letter-spacing: 0.3px;
+  margin-bottom: 22px;
+}
+
+/* ---------- INFO CARD ---------- */
+.box {
+  background: var(--bg-card);
+  border-radius: var(--radius-lg);
+  padding: 22px 22px 24px;
+  box-shadow: var(--shadow-soft);
+  font-size: 15px;
+}
+
+/* ---------- LABELS ---------- */
+.box b {
+  color: var(--green-main);
+  font-weight: 700;
+}
+
+/* ---------- DESCRIPTION BLOCK ---------- */
+.box p {
+  margin-top: 10px;
+  color: var(--text-muted);
+}
+
+/* ---------- EMPHASIS TEXT ---------- */
+.box i {
+  font-style: italic;
+  color: var(--text-main);
+}
+
+/* ---------- SPACING HELPERS ---------- */
+.box br {
+  line-height: 1.9;
+}
+
+/* ---------- FOOTER NOTE (OPTIONAL) ---------- */
+.footer-note {
+  text-align: center;
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-top: 24px;
+}
