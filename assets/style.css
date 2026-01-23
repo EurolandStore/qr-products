@@ -3,7 +3,9 @@
    Fonts inspired by DITA / Proxima-style
    Premium grocery & beverage look
    ====================================================== */
-
+body {
+  background: #ffeeee !important;
+}
 /* ---------- CSS RESET ---------- */
 * {
   box-sizing: border-box;
