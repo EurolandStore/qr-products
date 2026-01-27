@@ -28,6 +28,23 @@ body {
   z-index: -1;
 }
 
+/* PAGE BACKGROUND */
+body {
+  margin: 0;
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+  color: #143a2a;
+
+  background: linear-gradient(
+    180deg,
+    #0f6b46 0%,
+    #158a5a 35%,
+    #1fa774 65%,
+    #2ecf8f 100%
+  );
+
+  min-height: 100vh;
+}
+
 /* ===== PAGE ===== */
 .page {
   max-width: 900px;
