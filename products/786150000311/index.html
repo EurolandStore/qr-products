@@ -1,219 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<title>Leffe Blonde – Euroland</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-<style>
-:root {
-  --green-dark: #0f6b44;
-  --green-soft: rgba(15,107,68,0.85);
-  --card-bg: rgba(255,255,255,0.95);
-  --radius: 18px;
-  --shadow: 0 20px 40px rgba(0,0,0,.25);
-  --text-dark: #173a2a;
-}
-
-* { box-sizing: border-box; margin: 0; padding: 0; }
-
-body {
-  font-family: Inter, Arial, sans-serif;
-  background:
-    linear-gradient(var(--green-soft), var(--green-soft)),
-    url("../../assets/bg-store.jpg") center/cover no-repeat fixed;
-  min-height: 100vh;
-  color: var(--text-dark);
-}
-
-.header {
-  text-align: center;
-  padding: 20px 16px;
-}
-
-.logo img {
-  max-height: 70px;
-}
-
-.langs {
-  display: flex;
-  gap: 8px;
-  justify-content: center;
-  margin-bottom: 12px;
-}
-
-.langs button {
-  border: none;
-  background: #e7f6ee;
-  color: #0f6b44;
-  padding: 4px 10px;
-  border-radius: 12px;
-  cursor: pointer;
-  font-weight: 600;
-}
-
-.langs button.active {
-  background: #0f6b44;
-  color: #fff;
-}
-
-.container {
-  max-width: 900px;
-  margin: 0 auto 80px;
-  padding: 0 16px;
-}
-
-.hero {
-  background: rgba(255,255,255,0.15);
-  backdrop-filter: blur(6px);
-  border-radius: var(--radius);
-  padding: 40px;
-  text-align: center;
-  margin-bottom: 24px;
-}
-
-.hero img {
-  max-height: 300px;
-  filter: drop-shadow(0 20px 30px rgba(0,0,0,.35));
-}
-
-.title {
-  margin: 16px auto 10px;
-  font-size: 22px;
-  font-weight: 700;
-  background: #e7f6ee;
-  display: inline-block;
-  padding: 8px 18px;
-  border-radius: 20px;
-}
-
-.card {
-  background: var(--card-bg);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
-  padding: 24px;
-}
-
-.tags {
-  display: flex;
-  gap: 8px;
-  margin-bottom: 12px;
-}
-
-.tag {
-  font-size: 12px;
-  padding: 4px 10px;
-  border-radius: 10px;
-  font-weight: 600;
-  color: #fff;
-}
-
-.tag.organic { background: #2ecc71; }
-.tag.kosher { background: #3498db; }
-
-.meta p {
-  margin-bottom: 6px;
-  font-size: 14px;
-}
-
-.section-title {
-  font-weight: 700;
-  margin-top: 14px;
-  margin-bottom: 6px;
-}
-</style>
+  <meta charset="UTF-8" />
+  <title>Beer Leffe Blonde</title>
+  <link rel="stylesheet" href="../../assets/style.css" />
 </head>
-
 <body>
 
-<div class="header">
-  <div class="langs">
-    <button onclick="setLang('en')" class="active">EN</button>
-    <button onclick="setLang('ru')">RU</button>
-    <button onclick="setLang('ua')">UA</button>
-    <button onclick="setLang('de')">DE</button>
-    <button onclick="setLang('es')">ES</button>
-    <button onclick="setLang('it')">IT</button>
-    <button onclick="setLang('hr')">HR</button>
-    <button onclick="setLang('hu')">HU</button>
-  </div>
+  <div class="bg-layer"></div>
+  <div class="overlay"></div>
 
-  <div class="logo">
-    <img src="../../assets/logo.png" alt="Euroland">
-  </div>
-</div>
+  <div class="page">
 
-<div class="container">
-
-  <div class="hero">
-    <img src="../../assets/78615000311.jpg" alt="Leffe Blonde">
-  </div>
-
-  <div class="title" id="title"></div>
-
-  <div class="card">
-    <div class="tags">
-      <span class="tag organic">Organic</span>
-      <span class="tag kosher">Kosher</span>
+    <!-- LANGUAGES -->
+    <div class="topbar">
+      <div class="lang">EN</div>
+      <div class="lang">RU</div>
+      <div class="lang">UA</div>
+      <div class="lang">DE</div>
+      <div class="lang">ES</div>
+      <div class="lang">IT</div>
+      <div class="lang">HR</div>
+      <div class="lang">HU</div>
     </div>
 
-    <div class="meta" id="meta"></div>
+    <!-- LOGO -->
+	<div class="logo">
+		<img src="../../assets/logo.png" alt="Euroland Logo">
+	</div>
 
-    <div class="section-title" id="descTitle"></div>
-    <p id="description"></p>
+    <!-- PRODUCT -->
+    <div class="product">
 
-    <div class="section-title" id="storyTitle"></div>
-    <p id="story"></p>
+      <div class="image-card">
+        <img src="../../assets/786150000311.jpg" alt="Leffe Blonde">
+      </div>
+
+      <h1>BEER LEFFE BLONDE GL</h1>
+
+      <div class="info-card">
+
+        <div class="tags">
+          <div class="tag organic">Organic</div>
+          <div class="tag kosher">Kosher</div>
+        </div>
+
+        <p><strong>Brand:</strong> Leffe</p>
+        <p><strong>Country:</strong> Belgium</p>
+        <p><strong>Category:</strong> Beer</p>
+        <p><strong>Size:</strong> 0.35 L</p>
+        <p><strong>SKU:</strong> 786150000311</p>
+
+        <br>
+
+		<p>
+			<strong>Description:</strong><br>
+			Leffe Blonde is a distinguished Belgian abbey beer with a heritage that dates back to 1240.
+			Brewed in the heart of Belgium, this golden ale is crafted with rich malts and noble hops,
+			offering a smooth and balanced profile with delicate layers of spice, honeyed sweetness,
+			and bright fruit undertones. Its refined character and elegant finish make it an
+			exceptional choice for connoisseurs and casual drinkers alike.
+		</p>
+
+		<p>
+			<strong>History:</strong><br>
+			The story of Leffe began nearly eight centuries ago when the monks of the Notre-Dame
+			de Leffe Abbey started brewing beer as part of their daily life. Over centuries,
+			this craftsmanship evolved, blending tradition with skillful brewing know-how.
+			Today, Leffe Blonde carries forward this legacy, combining authentic abbey brewing
+			techniques with modern appreciation, bringing a taste of Belgian cultural heritage
+			to every glass.
+		</p>
+
+      </div>
+
+    </div>
   </div>
-
-</div>
-
-<script>
-const data = {
-  en: {
-    title: "Beer Leffe Blonde 0.35 L",
-    meta: `
-      <p><b>Brand:</b> Leffe</p>
-      <p><b>Country:</b> Belgium</p>
-      <p><b>Category:</b> Beer</p>
-      <p><b>Size:</b> 0.35 L</p>
-      <p><b>SKU:</b> 78615000311</p>`,
-    descTitle: "Description",
-    description: "Leffe Blonde is a classic Belgian abbey beer with a smooth, balanced character and delicate notes of vanilla, clove, and ripe fruit. Brewed following centuries-old traditions, it offers an elegant and timeless taste.",
-    storyTitle: "Product Story",
-    story: "The history of Leffe begins in 1240 at the Notre-Dame de Leffe Abbey in Belgium. Monks preserved brewing traditions for centuries, creating a beer that today represents authentic Belgian heritage worldwide."
-  },
-
-  ru: {
-    title: "Пиво Leffe Blonde 0.35 л",
-    meta: `
-      <p><b>Бренд:</b> Leffe</p>
-      <p><b>Страна:</b> Бельгия</p>
-      <p><b>Категория:</b> Пиво</p>
-      <p><b>Объём:</b> 0.35 л</p>
-      <p><b>SKU:</b> 78615000311</p>`,
-    descTitle: "Описание",
-    description: "Leffe Blonde — классическое бельгийское аббатское пиво с мягким вкусом, нотами ванили, гвоздики и спелых фруктов. Сварено по многовековым традициям.",
-    storyTitle: "История продукта",
-    story: "История Leffe начинается в 1240 году в бельгийском аббатстве Нотр-Дам-де-Леффе. Монахи бережно сохранили рецепты, превратив Leffe в символ бельгийского пивоварения."
-  }
-  // остальные языки добавим следующим шагом
-};
-
-function setLang(lang) {
-  document.querySelectorAll(".langs button").forEach(b => b.classList.remove("active"));
-  document.querySelector(`[onclick="setLang('${lang}')"]`).classList.add("active");
-
-  document.getElementById("title").innerHTML = data[lang].title;
-  document.getElementById("meta").innerHTML = data[lang].meta;
-  document.getElementById("descTitle").innerHTML = data[lang].descTitle;
-  document.getElementById("description").innerHTML = data[lang].description;
-  document.getElementById("storyTitle").innerHTML = data[lang].storyTitle;
-  document.getElementById("story").innerHTML = data[lang].story;
-}
-
-setLang("en");
-</script>
 
 </body>
 </html>
