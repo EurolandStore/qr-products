@@ -1,3 +1,4 @@
+print("RUNNING:", __file__)
 import csv
 from pathlib import Path
 
