@@ -78,17 +78,32 @@ body {
 .image-card {
   width: 100%;
   max-width: 720px;
-  background: rgba(255,255,255,0.15);
-  border-radius: 20px;
-  padding: 24px;
-  backdrop-filter: blur(6px);
+
+  background: rgba(255,255,255,0.18);
+  border-radius: 22px;
+  padding: 28px;
+
+  backdrop-filter: blur(8px);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.18);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
+/* WHITE PRODUCT PLATE */
 .image-card img {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 18px;
+
   max-height: 360px;
   max-width: 100%;
   object-fit: contain;
+
+  box-shadow: 0 12px 24px rgba(0,0,0,0.12);
 }
+
 
 /* TITLE */
 .product h1 {
