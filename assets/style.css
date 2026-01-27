@@ -1,119 +1,121 @@
-/* ================================
-   EUROLAND — PREMIUM BRAND STYLE
-================================ */
-body {
-  background: var(--bg-page); /* или #fff */
+/* EUROLAND — Premium product page */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root{
+  --green:#0f7f5c;
+  --green-soft:#e6f7ef;
+  --bg:#ffffff;
+  --card:#f6f7f6;
+  --text:#1f2a25;
+  --muted:#4f5f58;
+  --radius:20px;
+  --radius2:12px;
+  --shadow:0 12px 30px rgba(0,0,0,.08);
 }
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-:root {
-  --green-main: #0f7f5c;
-  --green-soft: #e6f7ef;
-  --green-mid: #bfe8d6;
-
-  --text-main: #1f2a25;
-  --text-muted: #4f5f58;
-
-  --bg-page: #ffffff;
-  --bg-card: #f6f7f6;
-
-  --radius-lg: 20px;
-  --radius-md: 12px;
-
-  --shadow-soft: 0 12px 30px rgba(0,0,0,.08);
-}
-
-body {
-  font-family: "Inter", "Segoe UI", Arial, sans-serif;
-  background: var(--bg-page);
-  color: var(--text-main);
-  max-width: 900px;
+body{
+  font-family: "Inter","Segoe UI",Arial,sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  max-width: 980px;
   margin: 0 auto;
-  padding: 20px 16px 40px;
+  padding: 18px 16px 40px;
   line-height: 1.6;
 }
 
-/* Language switch */
-.lang {
-  text-align: center;
-  margin-bottom: 16px;
+.lang{
+  text-align:center;
+  margin: 6px 0 12px;
 }
-
-.lang a {
-  display: inline-block;
+.lang a{
+  display:inline-block;
   margin: 0 4px;
   padding: 6px 10px;
   font-size: 13px;
-  font-weight: 600;
-  color: var(--green-main);
-  text-decoration: none;
+  font-weight: 700;
+  color: var(--green);
+  text-decoration:none;
+  border-radius: 9px;
   background: var(--green-soft);
-  border-radius: 8px;
+  transition: .15s ease;
+}
+.lang a:hover{ filter: brightness(.97); }
+.lang a.active{ background:#bfe8d6; }
+
+.header{
+  text-align:center;
+  margin-bottom: 14px;
+}
+.header img{ max-height: 70px; }
+
+.banner{
+  background: linear-gradient(180deg,#e9f8f1 0%,#cfeee0 45%,#a9dec5 75%,#7ccfa9 100%);
+  border-radius: var(--radius);
+  padding: 26px 18px;
+  margin: 10px 0 18px;
+  box-shadow: var(--shadow);
 }
 
-.lang a:hover {
-  background: var(--green-mid);
+.product-image{
+  text-align:center;
 }
-
-/* Header */
-.header {
-  text-align: center;
-  margin-bottom: 16px;
-}
-
-.header img {
-  max-height: 70px;
-}
-
-/* Banner */
-.banner {
-  background: linear-gradient(
-    180deg,
-    #e9f8f1 0%,
-    #cfeee0 45%,
-    #a9dec5 100%
-  );
-  border-radius: var(--radius-lg);
-  padding: 28px;
-  margin-bottom: 24px;
-  box-shadow: var(--shadow-soft);
-}
-
-/* Product image */
-.product-image {
-  text-align: center;
-}
-
-.product-image img {
-  max-height: 260px;
+.product-image img{
   max-width: 100%;
-  background: #fff;
+  max-height: 280px;
+  object-fit: contain;
+  background:#fff;
   padding: 10px;
-  border-radius: var(--radius-md);
+  border-radius: var(--radius2);
 }
 
-/* Title */
-h1 {
-  text-align: center;
+h1{
+  text-align:center;
   font-size: 28px;
-  font-weight: 800;
-  margin-bottom: 22px;
+  font-weight: 900;
+  letter-spacing:.2px;
+  margin: 12px 0 18px;
 }
 
-/* Info card */
-.box {
-  background: var(--bg-card);
-  border-radius: var(--radius-lg);
+.box{
+  background: var(--card);
+  border-radius: var(--radius);
   padding: 22px;
-  box-shadow: var(--shadow-soft);
-  font-size: 15px;
+  box-shadow: var(--shadow);
 }
 
-.box b {
-  color: var(--green-main);
+.grid{
+  display:grid;
+  grid-template-columns: repeat(2, minmax(0,1fr));
+  gap: 10px 18px;
+  margin-bottom: 14px;
+}
+.grid b{ color: var(--green); }
+
+h2{
+  margin: 14px 0 8px;
+  font-size: 16px;
+  color: var(--text);
+}
+
+p{ color: var(--muted); margin-bottom: 6px; }
+
+ul{
+  margin: 6px 0 4px 18px;
+  color: var(--muted);
+}
+ul li{ margin: 6px 0; }
+
+.note{
+  margin-top: 14px;
+  font-size: 12px;
+  color: var(--muted);
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 10px 12px;
+}
+
+@media (max-width: 640px){
+  h1{ font-size: 22px; }
+  .grid{ grid-template-columns: 1fr; }
+  .banner{ padding: 18px 14px; }
 }
