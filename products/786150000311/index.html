@@ -2,10 +2,135 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>BEER LEFFE BLONDE GL</title>
+  <title>Beer Leffe Blonde</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <link rel="stylesheet" href="../../assets/style.css" />
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f6f6f6;
+    }
+
+    /* BACKGROUND STORE */
+    .bg-store {
+      position: fixed;
+      inset: 0;
+      background: url("../../assets/bg-store.jpg") center / cover no-repeat;
+      opacity: 0.12;
+      z-index: -2;
+    }
+
+    .page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 24px;
+      min-height: 100vh;
+    }
+
+    /* HEADER */
+    .header-bar {
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      margin-bottom: 24px;
+    }
+
+    .header-logo img {
+      height: 48px;
+    }
+
+    .header-center {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .topbar a {
+      margin-right: 10px;
+      font-size: 14px;
+      color: #1e6b3a;
+      text-decoration: underline;
+      font-weight: 600;
+    }
+
+    .header-title {
+      font-size: 28px;
+      font-weight: 700;
+      color: #111;
+    }
+
+    /* IMAGE CARD */
+    .image-card {
+      background: #ffffff;
+      border-radius: 24px;
+      padding: 40px;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 24px;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+    }
+
+    .image-card img {
+      max-height: 420px;
+      max-width: 100%;
+      object-fit: contain;
+    }
+
+    /* INFO CARD */
+    .info-card {
+      background: #ffffff;
+      border-radius: 20px;
+      padding: 28px;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+    }
+
+    .tags {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+
+    .tag {
+      padding: 4px 10px;
+      border-radius: 14px;
+      font-size: 12px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .tag.organic { background: #2ecc71; }
+    .tag.kosher { background: #3498db; }
+
+    .info-card p {
+      margin: 6px 0;
+      line-height: 1.55;
+    }
+
+    .section-title {
+      margin-top: 22px;
+      font-weight: 700;
+      color: #1e6b3a;
+      font-size: 18px;
+    }
+
+    /* HISTORY */
+    .history-item {
+      margin-top: 10px;
+      padding-left: 14px;
+      border-left: 4px solid #1e6b3a;
+    }
+
+  </style>
 </head>
+
 <body>
+
+<div class="bg-store"></div>
 
 <div class="page">
 
@@ -15,21 +140,22 @@
       <img src="../../assets/logo.png" alt="Euroland Logo">
     </div>
 
-    <div class="header-title">
-      Beer Leffe Blonde
-    </div>
-  </div>
+    <div class="header-center">
+      <div class="topbar">
+        <a href="index.html">EN</a>
+        <a href="ru.html">RU</a>
+        <a href="ua.html">UA</a>
+        <a href="de.html">DE</a>
+        <a href="es.html">ES</a>
+        <a href="it.html">IT</a>
+        <a href="hr.html">HR</a>
+        <a href="hu.html">HU</a>
+      </div>
 
-  <!-- LANGUAGES -->
-  <div class="topbar">
-    <a href="index.html">EN</a>
-    <a href="ru.html">RU</a>
-    <a href="ua.html">UA</a>
-    <a href="de.html">DE</a>
-    <a href="es.html">ES</a>
-    <a href="it.html">IT</a>
-    <a href="hr.html">HR</a>
-    <a href="hu.html">HU</a>
+      <div class="header-title">
+        Beer Leffe Blonde
+      </div>
+    </div>
   </div>
 
   <!-- PRODUCT IMAGE -->
@@ -37,8 +163,13 @@
     <img src="../../assets/786150000311.jpg" alt="Leffe Blonde">
   </div>
 
-  <!-- INFO -->
+  <!-- PRODUCT INFO -->
   <div class="info-card">
+
+    <div class="tags">
+      <span class="tag organic">Organic</span>
+      <span class="tag kosher">Kosher</span>
+    </div>
 
     <p><strong>Brand:</strong> Leffe</p>
     <p><strong>Country of origin:</strong> Belgium</p>
@@ -47,54 +178,38 @@
     <p><strong>Alcohol content:</strong> 6.6% ABV</p>
     <p><strong>SKU:</strong> 786150000311</p>
 
-    <br>
-
-    <p><strong>Description:</strong></p>
+    <div class="section-title">Description</div>
     <p>
-      Leffe Blonde is a traditional Belgian abbey beer with origins dating back to
-      1240. Known for its smooth, well-balanced character, it features subtle notes
-      of vanilla, clove, and ripe fruit, offering a refined and elegant taste.
+      Leffe Blonde is a distinguished Belgian abbey beer with origins dating back to 1240.
+      Brewed in the heart of Belgium, it is crafted with rich malts and noble hops,
+      offering a smooth and balanced profile with delicate notes of vanilla, clove,
+      and ripe fruit. Its refined character and gentle finish make it a timeless classic
+      enjoyed around the world.
     </p>
 
-    <!-- INGREDIENTS -->
-    <br>
-    <p><strong>Ingredients:</strong></p>
+    <div class="section-title">Ingredients</div>
     <p>
       Water, barley malt, maize, hops, yeast.
     </p>
 
-    <!-- PRECAUTIONS -->
-    <br>
-    <p><strong>Consumption precautions:</strong></p>
-    <p class="muted">
-      Contains alcohol. Not recommended for children, pregnant or breastfeeding
-      women. Please consume responsibly.
+    <div class="section-title">Consumption precautions</div>
+    <p>
+      Contains alcohol. Not recommended for children, pregnant or breastfeeding women.
+      Please consume responsibly.
     </p>
 
-    <!-- HISTORY -->
-    <br>
-    <div class="history">
-      <h3>History</h3>
+    <div class="section-title">History</div>
 
-      <div class="timeline">
-        <div class="timeline-item">
-          <div class="timeline-dot"></div>
-          <div class="timeline-year">1240</div>
-          <div class="timeline-text">
-            Leffe originated in the Notre-Dame de Leffe Abbey in Belgium, where
-            monks brewed beer as part of daily life.
-          </div>
-        </div>
+    <div class="history-item">
+      <strong>1240</strong><br>
+      Leffe originated at the Notre-Dame de Leffe Abbey in Belgium, where monks brewed beer
+      as part of daily monastic life.
+    </div>
 
-        <div class="timeline-item">
-          <div class="timeline-dot"></div>
-          <div class="timeline-year">1952</div>
-          <div class="timeline-text">
-            The Leffe beer tradition was revived, preserving centuries-old abbey
-            brewing heritage.
-          </div>
-        </div>
-      </div>
+    <div class="history-item">
+      <strong>1952</strong><br>
+      The Leffe beer tradition was revived, preserving centuries-old abbey brewing heritage
+      and bringing it to a global audience.
     </div>
 
   </div>
@@ -102,5 +217,4 @@
 </div>
 
 </body>
-
 </html>
