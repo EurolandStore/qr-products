@@ -2,139 +2,133 @@
    EUROLAND PRODUCT PAGE
    =========================== */
 
-* {
-    box-sizing: border-box;
+* { box-sizing: border-box; }
+
+:root{
+  --overlay: rgba(18,110,70,.80);
+  --glass: rgba(255,255,255,.18);
+  --card: rgba(255,255,255,.95);
+  --text: #123;
+  --shadow: 0 18px 40px rgba(0,0,0,.25);
 }
 
-body {
-    margin: 0;
-    font-family: Inter, Arial, sans-serif;
+body{
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  color: var(--text);
 
-    background:
-        linear-gradient(
-            rgba(18, 110, 70, 0.88),
-            rgba(18, 110, 70, 0.88)
-        ),
-        url("bg-store.jpg") center / cover no-repeat fixed;
+  background:
+    linear-gradient(var(--overlay), var(--overlay)),
+    url("bg-store.jpg") center/cover no-repeat fixed;
+}
 
-    color: #123;
+/* ---------- TOP BAR (Languages) ---------- */
+.topbar{
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  padding: 10px 12px;
+  display: flex;
+  justify-content: center;
+}
+
+.lang{
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: rgba(255,255,255,.20);
+  backdrop-filter: blur(8px);
+  border-radius: 16px;
+  padding: 6px 10px;
+}
+
+.lang a{
+  text-decoration: none;
+  font-size: 13px;
+  padding: 4px 10px;
+  border-radius: 12px;
+  background: rgba(255,255,255,.85);
+  color: #166;
+  font-weight: 700;
+  line-height: 1.2;
 }
 
 /* ---------- HEADER ---------- */
-
-.header {
-    text-align: center;
-    padding: 20px 10px 10px;
+.header{
+  text-align: center;
+  padding: 10px 10px 0;
 }
-
-.logo {
-    max-height: 70px;
-}
-
-.lang {
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-    margin-bottom: 10px;
-}
-
-.lang a {
-    text-decoration: none;
-    font-size: 13px;
-    padding: 4px 10px;
-    border-radius: 12px;
-    background: rgba(255,255,255,0.85);
-    color: #166;
-    font-weight: 600;
+.logo{
+  max-height: 70px;
 }
 
 /* ---------- HERO ---------- */
+.hero{
+  margin: 22px auto 10px;
+  max-width: 900px;
+  padding: 26px;
+  border-radius: 22px;
 
-.hero {
-    margin: 30px auto 10px;
-    max-width: 900px;
-    padding: 30px;
+  background: var(--glass);
+  backdrop-filter: blur(6px);
 
-    background: rgba(255, 255, 255, 0.22);
-    backdrop-filter: blur(6px);
-    border-radius: 22px;
-
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.hero img {
-    max-height: 320px;
-    width: auto;
-    display: block;
-
-    filter: drop-shadow(0 14px 30px rgba(0,0,0,0.35));
+.hero img{
+  max-height: 320px;
+  width: auto;
+  display: block;
+  filter: drop-shadow(0 14px 30px rgba(0,0,0,.35));
 }
 
 /* ---------- TITLE ---------- */
-
-.title {
-    text-align: center;
-    margin: 16px 0 20px;
-
-    font-size: 24px;
-    font-weight: 700;
-    letter-spacing: 0.4px;
-
-    color: #fff;
-    text-shadow: 0 2px 6px rgba(0,0,0,0.35);
+.title{
+  text-align: center;
+  margin: 12px 0 18px;
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: .4px;
+  color: #fff;
+  text-shadow: 0 2px 6px rgba(0,0,0,.35);
 }
 
 /* ---------- CARD ---------- */
-
-.card {
-    background: rgba(255,255,255,0.96);
-    border-radius: 18px;
-    padding: 26px 30px;
-
-    max-width: 720px;
-    margin: 0 auto 80px;
-
-    box-shadow: 0 18px 40px rgba(0,0,0,0.25);
+.card{
+  max-width: 720px;
+  margin: 0 auto 70px;
+  padding: 22px 26px;
+  border-radius: 18px;
+  background: var(--card);
+  box-shadow: var(--shadow);
 }
 
-.card b {
-    color: #155;
-}
+.card b{ color:#155; }
 
 /* ---------- TAGS ---------- */
-
-.tags {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 14px;
+.tags{
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
 }
 
-.tag {
-    font-size: 12px;
-    font-weight: 700;
-    padding: 4px 10px;
-    border-radius: 14px;
-    color: #fff;
+.tag{
+  font-size: 12px;
+  font-weight: 800;
+  padding: 4px 10px;
+  border-radius: 999px;
+  color: #fff;
 }
 
-.tag.organic {
-    background: #2ecc71;
-}
-
-.tag.kosher {
-    background: #3498db;
-}
+.tag.organic{ background:#2ecc71; }
+.tag.kosher{ background:#3498db; }
 
 /* ---------- MOBILE ---------- */
-
-@media (max-width: 600px) {
-    .hero img {
-        max-height: 240px;
-    }
-
-    .card {
-        margin: 0 14px 60px;
-        padding: 22px;
-    }
+@media (max-width: 600px){
+  .hero img{ max-height: 240px; }
+  .card{ margin: 0 14px 60px; padding: 18px; }
 }
