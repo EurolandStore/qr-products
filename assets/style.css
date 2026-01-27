@@ -2,7 +2,7 @@
    EUROLAND — PREMIUM BRAND STYLE
 ================================ */
 body {
-  background: red !important;
+  background: var(--bg-page); /* или #fff */
 }
 
 * {
