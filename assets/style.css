@@ -5,9 +5,7 @@
 }
 
 body {
-  font-family: Inter, Arial, sans-serif;
-  min-height: 100vh;
-  color: #143d2b;
+  background: #ffffff;
 }
 
 /* ===== BACKGROUND ===== */
@@ -80,10 +78,9 @@ body {
 }
 
 /* PAGE BACKGROUND */
-body {
-  margin: 0;
+body, p, h1, h3 {
   font-family: "Inter", "Segoe UI", Arial, sans-serif;
-  color: #143a2a;
+}
 
   background: linear-gradient(
     180deg,
@@ -96,6 +93,10 @@ body {
   min-height: 100vh;
 }
 
+.muted {
+  color: #666;
+  font-size: 14px;
+}
 /* ===== PAGE ===== */
 .page {
   max-width: 900px;
@@ -121,16 +122,21 @@ body {
 }
 
 /* ===== LOGO ===== */
-.logo {
-  position: relative;
-  z-index: 10;
-  margin-bottom: 16px;
+.header-bar {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 16px 0 10px;
 }
 
-.logo img {
-  height: 64px;
-  max-width: 100%;
-  display: inline-block;
+.header-logo img {
+  height: 44px;
+}
+
+.header-title {
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 0.3px;
 }
 
 
