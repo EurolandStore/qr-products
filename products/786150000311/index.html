@@ -1,81 +1,143 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8">
   <title>Beer Leffe Blonde</title>
-  <link rel="stylesheet" href="../../assets/style.css" />
+  <link rel="stylesheet" href="../../assets/style.css">
 </head>
 <body>
 
-  <div class="bg-layer"></div>
-  <div class="overlay"></div>
+<div class="bg-layer"></div>
+<div class="overlay"></div>
 
-  <div class="page">
+<div class="page">
 
-    <!-- LANGUAGES -->
-    <div class="topbar">
-      <div class="lang">EN</div>
-      <div class="lang">RU</div>
-      <div class="lang">UA</div>
-      <div class="lang">DE</div>
-      <div class="lang">ES</div>
-      <div class="lang">IT</div>
-      <div class="lang">HR</div>
-      <div class="lang">HU</div>
+  <!-- LANGUAGES -->
+  <div class="topbar">
+    <div class="lang active" data-lang="en">EN</div>
+    <div class="lang" data-lang="ru">RU</div>
+    <div class="lang" data-lang="ua">UA</div>
+    <div class="lang" data-lang="de">DE</div>
+    <div class="lang" data-lang="es">ES</div>
+    <div class="lang" data-lang="it">IT</div>
+    <div class="lang" data-lang="hr">HR</div>
+    <div class="lang" data-lang="hu">HU</div>
+  </div>
+
+  <!-- LOGO -->
+  <div class="logo">
+    <img src="../../assets/logo.png" alt="Euroland Logo">
+  </div>
+
+  <!-- PRODUCT -->
+  <div class="product">
+
+    <div class="image-card">
+      <img src="../../assets/786150000311.jpg" alt="Leffe Blonde">
     </div>
 
-    <!-- LOGO -->
-	<div class="logo">
-		<img src="../../assets/logo.png" alt="Euroland Logo">
-	</div>
+    <h1 data-i18n="title">BEER LEFFE BLONDE GL</h1>
 
-    <!-- PRODUCT -->
-    <div class="product">
+    <div class="info-card">
 
-      <div class="image-card">
-        <img src="../../assets/786150000311.jpg" alt="Leffe Blonde">
+      <div class="tags">
+        <div class="tag organic">Organic</div>
+        <div class="tag kosher">Kosher</div>
       </div>
 
-      <h1>BEER LEFFE BLONDE GL</h1>
+      <p><strong data-i18n="brand_label">Brand:</strong> <span data-i18n="brand">Leffe</span></p>
+      <p><strong data-i18n="country_label">Country:</strong> <span data-i18n="country">Belgium</span></p>
+      <p><strong data-i18n="category_label">Category:</strong> <span data-i18n="category">Beer</span></p>
+      <p><strong data-i18n="size_label">Size:</strong> 0.35 L</p>
+      <p><strong>SKU:</strong> 786150000311</p>
 
-      <div class="info-card">
+      <br>
 
-        <div class="tags">
-          <div class="tag organic">Organic</div>
-          <div class="tag kosher">Kosher</div>
-        </div>
+      <p><strong data-i18n="description_label">Description:</strong></p>
+      <p data-i18n="description"></p>
 
-        <p><strong>Brand:</strong> Leffe</p>
-        <p><strong>Country:</strong> Belgium</p>
-        <p><strong>Category:</strong> Beer</p>
-        <p><strong>Size:</strong> 0.35 L</p>
-        <p><strong>SKU:</strong> 786150000311</p>
+      <br>
 
-        <br>
-
-		<p>
-			<strong>Description:</strong><br>
-			Leffe Blonde is a distinguished Belgian abbey beer with a heritage that dates back to 1240.
-			Brewed in the heart of Belgium, this golden ale is crafted with rich malts and noble hops,
-			offering a smooth and balanced profile with delicate layers of spice, honeyed sweetness,
-			and bright fruit undertones. Its refined character and elegant finish make it an
-			exceptional choice for connoisseurs and casual drinkers alike.
-		</p>
-
-		<p>
-			<strong>History:</strong><br>
-			The story of Leffe began nearly eight centuries ago when the monks of the Notre-Dame
-			de Leffe Abbey started brewing beer as part of their daily life. Over centuries,
-			this craftsmanship evolved, blending tradition with skillful brewing know-how.
-			Today, Leffe Blonde carries forward this legacy, combining authentic abbey brewing
-			techniques with modern appreciation, bringing a taste of Belgian cultural heritage
-			to every glass.
-		</p>
-
-      </div>
+      <p><strong data-i18n="history_label">History:</strong></p>
+      <p data-i18n="history"></p>
 
     </div>
   </div>
+</div>
+
+<!-- LANGUAGE SCRIPT -->
+<script>
+const translations = {
+  en: {
+    title: "BEER LEFFE BLONDE GL",
+    brand_label: "Brand:",
+    country_label: "Country:",
+    category_label: "Category:",
+    size_label: "Size:",
+    description_label: "Description:",
+    history_label: "History:",
+    brand: "Leffe",
+    country: "Belgium",
+    category: "Beer",
+    description:
+      "Leffe Blonde is a distinguished Belgian abbey beer with a heritage dating back to 1240. Brewed with carefully selected malts and hops, it offers a smooth, balanced flavor with refined notes of vanilla, clove, honey, and ripe fruit. Its elegant character and gentle finish make it ideal for both everyday enjoyment and special occasions.",
+    history:
+      "The origins of Leffe trace back nearly eight centuries to the Notre-Dame de Leffe Abbey in Belgium. Monks began brewing beer as part of their daily life, perfecting their craft over generations. Today, Leffe Blonde continues this legacy, blending centuries-old abbey traditions with modern brewing expertise to deliver a timeless Belgian classic."
+  },
+
+  ru: {
+    title: "ПИВО LEFFE BLONDE",
+    brand_label: "Бренд:",
+    country_label: "Страна:",
+    category_label: "Категория:",
+    size_label: "Объем:",
+    description_label: "Описание:",
+    history_label: "История:",
+    brand: "Leffe",
+    country: "Бельгия",
+    category: "Пиво",
+    description:
+      "Leffe Blonde — это изысканное бельгийское аббатское пиво с историей, уходящей в 1240 год. Мягкий, сбалансированный вкус раскрывается нотами ванили, гвоздики, медовой сладости и спелых фруктов. Благородный характер и элегантное послевкусие делают его идеальным выбором как для повседневного наслаждения, так и для особых случаев.",
+    history:
+      "История Leffe началась почти восемь веков назад в аббатстве Нотр-Дам-де-Леффе в Бельгии. Монахи варили пиво как часть своей повседневной жизни, совершенствуя рецептуру из поколения в поколение. Сегодня Leffe Blonde сохраняет дух аббатского пивоварения, объединяя традиции и современное мастерство."
+  },
+
+  ua: {
+    title: "ПИВО LEFFE BLONDE",
+    brand_label: "Бренд:",
+    country_label: "Країна:",
+    category_label: "Категорія:",
+    size_label: "Обʼєм:",
+    description_label: "Опис:",
+    history_label: "Історія:",
+    brand: "Leffe",
+    country: "Бельгія",
+    category: "Пиво",
+    description:
+      "Leffe Blonde — це класичне бельгійське абатське пиво з історією з 1240 року. Його м’який та збалансований смак поєднує нотки ванілі, спецій, медової солодкості та стиглих фруктів. Витончений профіль робить це пиво ідеальним для будь-якої нагоди.",
+    history:
+      "Пиво Leffe бере початок у абатстві Нотр-Дам-де-Леффе, де ченці варили його ще в середньовіччі. Протягом століть традиції пивоваріння передавались з покоління в покоління. Сьогодні Leffe Blonde зберігає автентичний характер бельгійської спадщини."
+  }
+};
+
+function setLanguage(lang) {
+  document.querySelectorAll("[data-i18n]").forEach(el => {
+    const key = el.getAttribute("data-i18n");
+    if (translations[lang][key]) {
+      el.innerText = translations[lang][key];
+    }
+  });
+
+  document.querySelectorAll(".lang").forEach(l => l.classList.remove("active"));
+  document.querySelector(`.lang[data-lang="${lang}"]`).classList.add("active");
+}
+
+document.querySelectorAll(".lang").forEach(btn => {
+  btn.addEventListener("click", () => {
+    setLanguage(btn.dataset.lang);
+  });
+});
+</script>
 
 </body>
 </html>
