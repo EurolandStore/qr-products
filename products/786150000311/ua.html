@@ -1,106 +1,121 @@
 <!DOCTYPE html>
 <html lang="uk">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8">
   <title>Пиво Leffe Blonde</title>
-  <link rel="stylesheet" href="../../assets/style.css" />
+  <link rel="stylesheet" href="../../assets/style.css">
 </head>
 <body>
 
-  <div class="bg-layer"></div>
-  <div class="overlay"></div>
+<!-- BACKGROUND -->
+<div class="bg-store"></div>
+<div class="bg-overlay"></div>
 
-  <div class="page">
+<div class="page">
 
-    <div class="topbar">
-      <a class="lang" href="index.html">EN</a>
-      <a class="lang" href="ru.html">RU</a>
-      <a class="lang active" href="ua.html">UA</a>
-      <a class="lang" href="de.html">DE</a>
-      <a class="lang" href="es.html">ES</a>
-      <a class="lang" href="it.html">IT</a>
-      <a class="lang" href="hr.html">HR</a>
-      <a class="lang" href="hu.html">HU</a>
+  <!-- HEADER -->
+  <header class="header">
+    <div class="header-left">
+      <img src="../../assets/logo.png" alt="Euroland" class="logo">
     </div>
 
-    <div class="logo">
-      <img src="../../assets/logo.png" alt="Euroland Logo">
-    </div>
-
-    <div class="product">
-
-      <div class="image-card">
-        <img src="../../assets/786150000311.jpg" alt="Leffe Blonde">
+    <div class="header-right">
+      <div class="lang-switch">
+        <a href="index.html">EN</a>
+        <a href="ru.html">RU</a>
+        <a href="ua.html">UA</a>
+        <a href="de.html">DE</a>
+        <a href="es.html">ES</a>
+        <a href="it.html">IT</a>
+        <a href="hr.html">HR</a>
+        <a href="hu.html">HU</a>
       </div>
+    </div>
+  </header>
 
-      <h1>ПИВО LEFFE BLONDE</h1>
+  <!-- TITLE -->
+  <h1 class="product-title centered">ПИВО LEFFE BLONDE</h1>
 
-      <div class="info-card">
+  <!-- IMAGE -->
+  <section class="image-section same-width">
+    <div class="image-card">
+      <img src="../../assets/786150000311.jpg" alt="Leffe Blonde">
+    </div>
+  </section>
 
-        <div class="tags">
-          <div class="tag organic">Organic</div>
-          <div class="tag kosher">Kosher</div>
-        </div>
+  <!-- INFO -->
+  <section class="info-card">
 
-        <p><strong>Бренд:</strong> Leffe</p>
-        <p><strong>Країна:</strong> Бельгія</p>
-        <p><strong>Категорія:</strong> Пиво</p>
-        <p><strong>Обʼєм:</strong> 0.35 L</p>
-        <p><strong>SKU:</strong> 786150000311</p>
+    <div class="tags">
+      <span class="tag organic">Organic</span>
+      <span class="tag kosher">Kosher</span>
+    </div>
 
-        <br>
+    <ul class="meta">
+      <li><strong>Бренд:</strong> Leffe</li>
+      <li><strong>Країна походження:</strong> Бельгія</li>
+      <li><strong>Категорія:</strong> Пиво</li>
+      <li><strong>Об’єм:</strong> 0.35 L</li>
+      <li><strong>Вміст алкоголю:</strong> 6.6% ABV</li>
+      <li><strong>SKU:</strong> 786150000311</li>
+    </ul>
 
-        <p><strong>Опис:</strong></p>
+    <h2>Опис</h2>
+    <p>
+      Leffe Blonde — класичне бельгійське абатське пиво з історією, що починається
+      у 1240 році. Воно має м’який, збалансований смак із витонченими нотами
+      ванілі, гвоздики та стиглих фруктів, даруючи елегантний та чистий післясмак.
+    </p>
+
+    <h2>Інгредієнти</h2>
+    <p>
+      Вода, ячмінний солод, кукурудза, хміль, дріжджі.
+    </p>
+
+    <h2>Застереження</h2>
+    <p>
+      Містить алкоголь. Не рекомендовано дітям, вагітним та жінкам, що годують
+      грудьми. Вживайте відповідально.
+    </p>
+
+    <h2>Історія</h2>
+
+    <div class="history">
+      <div class="history-item">
+        <span class="year">1240</span>
         <p>
-          Leffe Blonde — класичне бельгійське абатське пиво з м’яким, гармонійним характером.
-          У смаку відчуваються делікатні ноти ванілі, гвоздики, легкої медової солодкості та стиглих фруктів.
-          Фініш чистий і збалансований — ідеально як для легкого відпочинку, так і для поєднання зі стравами.
+          Історія Leffe розпочинається в абатстві Нотр-Дам-де-Лефф у місті Дінан,
+          Бельгія, де монахи варили пиво як частину повсякденного життя.
         </p>
+      </div>
 
-<div class="history">
-  <h3>Історія</h3>
-  <div class="timeline">
+      <div class="history-item">
+        <span class="year">XIII–XVIII століття</span>
+        <p>
+          Протягом століть воєн, повеней і відновлення абатство зберігало традиції
+          пивоваріння та вдосконалювало рецепти.
+        </p>
+      </div>
 
-    <div class="timeline-item">
-      <div class="timeline-dot"></div>
-      <div class="timeline-year">1240</div>
-      <div class="timeline-text">
-        Історія Leffe починається у 1240 році в абатстві Нотр-Дам-де-Лефф у місті
-        Дінан, Бельгія. Монахи варили пиво як частину повсякденного життя,
-        поєднуючи віру, ремесло та ранні знання пивоваріння.
+      <div class="history-item">
+        <span class="year">1952</span>
+        <p>
+          Історичну традицію пива Leffe було офіційно відроджено та представлено
+          світу.
+        </p>
+      </div>
+
+      <div class="history-item">
+        <span class="year">Сьогодні</span>
+        <p>
+          Leffe Blonde поєднує традиції та сучасне пивоваріння, відображаючи
+          бельгійську спадщину в кожному келиху.
+        </p>
       </div>
     </div>
 
-    <div class="timeline-item">
-      <div class="timeline-dot"></div>
-      <div class="timeline-year">XIII–XVIII століття</div>
-      <div class="timeline-text">
-        Протягом століть воєн, повеней і відбудови абатство зберігало пивоварні
-        традиції, удосконалюючи рецепти та характер абатського пива.
-      </div>
-    </div>
+  </section>
 
-    <div class="timeline-item">
-      <div class="timeline-dot"></div>
-      <div class="timeline-year">1952</div>
-      <div class="timeline-text">
-        Традицію пива Leffe було офіційно відроджено, повернувши до життя
-        старовинні рецепти та представивши їх світу.
-      </div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="timeline-dot"></div>
-      <div class="timeline-year">Сьогодні</div>
-      <div class="timeline-text">
-        Leffe Blonde — це поєднання традицій та сучасного пивоваріння.
-        М’яке, збалансоване та елегантне пиво з бельгійською спадщиною.
-      </div>
-    </div>
-
-  </div>
 </div>
-
-
 </body>
 </html>
