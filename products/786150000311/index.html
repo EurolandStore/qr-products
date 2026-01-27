@@ -80,9 +80,9 @@ const translations = {
     country: "Belgium",
     category: "Beer",
     description:
-      "Leffe Blonde is a distinguished Belgian abbey beer with a heritage dating back to 1240. Brewed with carefully selected malts and hops, it offers a smooth, balanced flavor with refined notes of vanilla, clove, honey, and ripe fruit. Its elegant character and gentle finish make it ideal for both everyday enjoyment and special occasions.",
+      "Leffe Blonde is a distinguished Belgian abbey beer with a heritage dating back to 1240. Brewed with carefully selected malts and aromatic hops, it reveals a smooth, balanced profile with refined notes of vanilla, clove, honey, and ripe fruit. Its elegant character and gentle finish make it a perfect choice for both everyday enjoyment and special occasions.",
     history:
-      "The origins of Leffe trace back nearly eight centuries to the Notre-Dame de Leffe Abbey in Belgium. Monks began brewing beer as part of their daily life, perfecting their craft over generations. Today, Leffe Blonde continues this legacy, blending centuries-old abbey traditions with modern brewing expertise to deliver a timeless Belgian classic."
+      "The story of Leffe begins in the Notre-Dame de Leffe Abbey in Belgium, where monks started brewing beer nearly eight centuries ago. Over generations, they refined their craft, creating beers known for depth, balance, and tradition. Today, Leffe Blonde carries this legacy forward, combining centuries-old abbey brewing heritage with modern expertise to deliver an authentic Belgian classic."
   },
 
   ru: {
@@ -90,46 +90,29 @@ const translations = {
     brand_label: "Бренд:",
     country_label: "Страна:",
     category_label: "Категория:",
-    size_label: "Объем:",
+    size_label: "Объём:",
     description_label: "Описание:",
     history_label: "История:",
     brand: "Leffe",
     country: "Бельгия",
     category: "Пиво",
     description:
-      "Leffe Blonde — это изысканное бельгийское аббатское пиво с историей, уходящей в 1240 год. Мягкий, сбалансированный вкус раскрывается нотами ванили, гвоздики, медовой сладости и спелых фруктов. Благородный характер и элегантное послевкусие делают его идеальным выбором как для повседневного наслаждения, так и для особых случаев.",
+      "Leffe Blonde — это изысканное бельгийское аббатское пиво с историей, уходящей в 1240 год. Оно обладает мягким, сбалансированным вкусом с нотами ванили, гвоздики, медовой сладости и спелых фруктов. Элегантный характер и приятное послевкусие делают его отличным выбором как для повседневного наслаждения, так и для особых случаев.",
     history:
-      "История Leffe началась почти восемь веков назад в аббатстве Нотр-Дам-де-Леффе в Бельгии. Монахи варили пиво как часть своей повседневной жизни, совершенствуя рецептуру из поколения в поколение. Сегодня Leffe Blonde сохраняет дух аббатского пивоварения, объединяя традиции и современное мастерство."
-  },
-
-  ua: {
-    title: "ПИВО LEFFE BLONDE",
-    brand_label: "Бренд:",
-    country_label: "Країна:",
-    category_label: "Категорія:",
-    size_label: "Обʼєм:",
-    description_label: "Опис:",
-    history_label: "Історія:",
-    brand: "Leffe",
-    country: "Бельгія",
-    category: "Пиво",
-    description:
-      "Leffe Blonde — це класичне бельгійське абатське пиво з історією з 1240 року. Його м’який та збалансований смак поєднує нотки ванілі, спецій, медової солодкості та стиглих фруктів. Витончений профіль робить це пиво ідеальним для будь-якої нагоди.",
-    history:
-      "Пиво Leffe бере початок у абатстві Нотр-Дам-де-Леффе, де ченці варили його ще в середньовіччі. Протягом століть традиції пивоваріння передавались з покоління в покоління. Сьогодні Leffe Blonde зберігає автентичний характер бельгійської спадщини."
+      "История Leffe начинается в аббатстве Нотр-Дам-де-Леффе в Бельгии, где монахи варили пиво ещё в Средние века. На протяжении столетий рецепты и традиции передавались из поколения в поколение. Сегодня Leffe Blonde сохраняет дух аббатского пивоварения, сочетая богатое наследие и современное мастерство."
   }
 };
 
 function setLanguage(lang) {
+  if (!translations[lang]) return;
+
   document.querySelectorAll("[data-i18n]").forEach(el => {
     const key = el.getAttribute("data-i18n");
-    if (translations[lang][key]) {
-      el.innerText = translations[lang][key];
-    }
+    el.innerText = translations[lang][key] || "";
   });
 
   document.querySelectorAll(".lang").forEach(l => l.classList.remove("active"));
-  document.querySelector(`.lang[data-lang="${lang}"]`).classList.add("active");
+  document.querySelector(`.lang[data-lang="${lang}"]`)?.classList.add("active");
 }
 
 document.querySelectorAll(".lang").forEach(btn => {
@@ -137,7 +120,11 @@ document.querySelectorAll(".lang").forEach(btn => {
     setLanguage(btn.dataset.lang);
   });
 });
+
+// default
+setLanguage("en");
 </script>
+
 
 </body>
 </html>
