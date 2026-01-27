@@ -1,18 +1,14 @@
-<!DOCTYPE html>
-<html lang="{{LANG}}">
+HTML_TEMPLATE = """<!DOCTYPE html>
+<html lang="{lang}">
 <head>
-<meta charset="UTF-8">
-<title>{{TITLE}}</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+  <title>{name}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" href="/qr-products/assets/style.css">
+  <!-- EUROLAND GLOBAL STYLE -->
+  <link rel="stylesheet" href="../../assets/style.css">
 </head>
-
 <body>
-<h1 style="color:red">TEMPLATE TEST 123</h1>
-<header class="header">
-  <img src="../../assets/logo.png" alt="Euroland">
-</header>
 
 <nav class="lang">
   <a href="index.html">EN</a>
@@ -25,17 +21,29 @@
   <a href="hu.html">HU</a>
 </nav>
 
-<main class="page">
-  <h1>{{PRODUCT_NAME}}</h1>
+<header class="header">
+  <img src="../../assets/logo.png" alt="Euroland">
+</header>
 
+<section class="banner">
   <div class="product-image">
-    <img src="product.jpg" alt="{{PRODUCT_NAME}}">
+    <img src="product.jpg" alt="{name}"
+         onerror="this.src='../../assets/placeholder.png'">
   </div>
+</section>
 
-  <section class="card">
-    {{CONTENT}}
-  </section>
-</main>
+<h1>{name}</h1>
+
+<section class="box">
+  <b>Brand:</b> {brand}<br>
+  <b>Country:</b> {country}<br>
+  <b>Category:</b> {department}<br>
+  <b>Size:</b> {size}<br><br>
+
+  <b>Description:</b><br>
+  {description}
+</section>
 
 </body>
 </html>
+"""
