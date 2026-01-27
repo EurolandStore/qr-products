@@ -1,6 +1,9 @@
 /* ================================
    EUROLAND — PREMIUM BRAND STYLE
 ================================ */
+body {
+  background: red !important;
+}
 
 * {
   box-sizing: border-box;
