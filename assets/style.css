@@ -1,109 +1,112 @@
-/* ===============================
-   EUROLAND PRODUCT PAGE STYLE
-   =============================== */
+/* ===========================
+   EUROLAND PRODUCT PAGE
+   =========================== */
 
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
-:root {
-    --green-main: #1f8f5f;
-    --green-soft: rgba(31,143,95,0.85);
-    --card-bg: rgba(255,255,255,0.92);
-    --text-main: #1f2933;
-    --radius-lg: 22px;
-    --radius-md: 14px;
-    --shadow: 0 20px 50px rgba(0,0,0,0.25);
 }
 
 body {
-    font-family: Inter, "Segoe UI", Arial, sans-serif;
-    color: var(--text-main);
+    margin: 0;
+    font-family: Inter, Arial, sans-serif;
 
-    /* 🔥 ФОН */
     background:
         linear-gradient(
-            rgba(31,143,95,0.85),
-            rgba(31,143,95,0.85)
+            rgba(18, 110, 70, 0.88),
+            rgba(18, 110, 70, 0.88)
         ),
         url("bg-store.jpg") center / cover no-repeat fixed;
 
-    min-height: 100vh;
-    padding: 28px 16px 60px;
+    color: #123;
 }
 
-/* ---------- Language switch ---------- */
+/* ---------- HEADER ---------- */
+
+.header {
+    text-align: center;
+    padding: 20px 10px 10px;
+}
+
+.logo {
+    max-height: 70px;
+}
+
 .lang {
     display: flex;
     justify-content: center;
     gap: 8px;
-    margin-bottom: 14px;
+    margin-bottom: 10px;
 }
 
 .lang a {
     text-decoration: none;
-    font-size: 12px;
+    font-size: 13px;
     padding: 4px 10px;
-    border-radius: 20px;
+    border-radius: 12px;
     background: rgba(255,255,255,0.85);
-    color: #145a32;
+    color: #166;
     font-weight: 600;
 }
 
-/* ---------- Logo ---------- */
-.logo {
-    text-align: center;
-    margin-bottom: 20px;
-}
+/* ---------- HERO ---------- */
 
-.logo img {
-    height: 52px;
-}
-
-/* ---------- Hero image ---------- */
 .hero {
+    margin: 30px auto 10px;
     max-width: 900px;
-    margin: 0 auto 18px;
-    background: rgba(255,255,255,0.25);
+    padding: 30px;
+
+    background: rgba(255, 255, 255, 0.22);
     backdrop-filter: blur(6px);
-    border-radius: var(--radius-lg);
-    padding: 28px;
+    border-radius: 22px;
+
     display: flex;
     justify-content: center;
 }
 
 .hero img {
-    max-height: 340px;
+    max-height: 320px;
     width: auto;
-    filter: drop-shadow(0 10px 20px rgba(0,0,0,0.35));
+    display: block;
+
+    filter: drop-shadow(0 14px 30px rgba(0,0,0,0.35));
 }
 
-/* ---------- Title ---------- */
+/* ---------- TITLE ---------- */
+
 .title {
     text-align: center;
-    font-size: 26px;
-    font-weight: 800;
-    margin: 18px 0 20px;
-    color: #0f2f22;
+    margin: 16px 0 20px;
+
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+
+    color: #fff;
+    text-shadow: 0 2px 6px rgba(0,0,0,0.35);
 }
 
-/* ---------- Card ---------- */
+/* ---------- CARD ---------- */
+
 .card {
-    max-width: 900px;
-    margin: 0 auto;
-    background: var(--card-bg);
-    border-radius: var(--radius-lg);
+    background: rgba(255,255,255,0.96);
+    border-radius: 18px;
     padding: 26px 30px;
-    box-shadow: var(--shadow);
-    line-height: 1.55;
+
+    max-width: 720px;
+    margin: 0 auto 80px;
+
+    box-shadow: 0 18px 40px rgba(0,0,0,0.25);
 }
 
-/* ---------- Tags ---------- */
+.card b {
+    color: #155;
+}
+
+/* ---------- TAGS ---------- */
+
 .tags {
     display: flex;
-    gap: 8px;
+    gap: 10px;
     margin-bottom: 14px;
 }
 
@@ -111,7 +114,7 @@ body {
     font-size: 12px;
     font-weight: 700;
     padding: 4px 10px;
-    border-radius: 20px;
+    border-radius: 14px;
     color: #fff;
 }
 
@@ -123,35 +126,15 @@ body {
     background: #3498db;
 }
 
-/* ---------- Text ---------- */
-.card p {
-    margin-bottom: 6px;
-    font-size: 15px;
-}
+/* ---------- MOBILE ---------- */
 
-.desc {
-    margin-top: 14px;
-    font-size: 15px;
-    color: #34495e;
-}
-
-/* ---------- Responsive ---------- */
 @media (max-width: 600px) {
     .hero img {
-        max-height: 260px;
-    }
-
-    .title {
-        font-size: 22px;
+        max-height: 240px;
     }
 
     .card {
+        margin: 0 14px 60px;
         padding: 22px;
     }
-}
-
-/* ---------- Page wrapper ---------- */
-.page {
-    max-width: 1100px;
-    margin: 0 auto;
 }
