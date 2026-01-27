@@ -214,3 +214,13 @@ p {
   text-align: center;
   width: 100%;
 }
+/* ===============================
+   HIDE EMPTY CARDS SAFELY
+   =============================== */
+
+/* Hide empty white blocks */
+.same-width:empty,
+.info-card:empty,
+.image-section:empty {
+  display: none;
+}
