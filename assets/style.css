@@ -181,3 +181,36 @@ p {
   font-weight: 700;
   color: #1b7c4b;
 }
+/* ===============================
+   FINAL ALIGN FIX (NO DELETES)
+   =============================== */
+
+/* One visual width for image + info */
+.image-section,
+.info-card {
+  max-width: 820px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Make image-card stretch full width of section */
+.image-card {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Ensure image is perfectly centered */
+.image-card img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+/* Title strictly centered above image */
+.product-title.centered {
+  text-align: center;
+  width: 100%;
+}
