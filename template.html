@@ -1,49 +1,106 @@
-HTML_TEMPLATE = """<!DOCTYPE html>
-<html lang="{lang}">
+<!DOCTYPE html>
+<html lang="{{LANG}}">
 <head>
   <meta charset="UTF-8">
-  <title>{name}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <!-- EUROLAND GLOBAL STYLE -->
+  <title>{{PAGE_TITLE}}</title>
   <link rel="stylesheet" href="../../assets/style.css">
 </head>
 <body>
 
-<nav class="lang">
-  <a href="index.html">EN</a>
-  <a href="ru.html">RU</a>
-  <a href="uk.html">UA</a>
-  <a href="de.html">DE</a>
-  <a href="es.html">ES</a>
-  <a href="it.html">IT</a>
-  <a href="hr.html">HR</a>
-  <a href="hu.html">HU</a>
-</nav>
+<!-- BACKGROUND -->
+<div class="bg-store"></div>
+<div class="bg-overlay"></div>
 
-<header class="header">
-  <img src="../../assets/logo.png" alt="Euroland">
-</header>
+<div class="page">
 
-<section class="banner">
-  <div class="product-image">
-    <img src="product.jpg" alt="{name}"
-         onerror="this.src='../../assets/placeholder.png'">
-  </div>
-</section>
+  <!-- HEADER -->
+  <header class="header">
+    <div class="header-left">
+      <img src="../../assets/logo.png" alt="Euroland" class="logo">
+    </div>
 
-<h1>{name}</h1>
+    <div class="header-right">
+      <div class="lang-switch">
+        <a href="index.html">EN</a>
+        <a href="ru.html">RU</a>
+        <a href="ua.html">UA</a>
+        <a href="de.html">DE</a>
+        <a href="es.html">ES</a>
+        <a href="it.html">IT</a>
+        <a href="hr.html">HR</a>
+        <a href="hu.html">HU</a>
+      </div>
+    </div>
+  </header>
 
-<section class="box">
-  <b>Brand:</b> {brand}<br>
-  <b>Country:</b> {country}<br>
-  <b>Category:</b> {department}<br>
-  <b>Size:</b> {size}<br><br>
+  <!-- TITLE -->
+  <h1 class="product-title centered">{{TITLE}}</h1>
 
-  <b>Description:</b><br>
-  {description}
-</section>
+  <!-- IMAGE -->
+  <section class="image-section same-width">
+    <div class="image-card">
+      <img src="{{IMAGE_SRC}}" alt="{{IMAGE_ALT}}" onerror="this.style.display='none'">
+    </div>
+  </section>
 
+  <!-- INFO -->
+  <section class="info-card">
+
+    <!-- TAGS (auto-generated) -->
+    <div class="tags">
+      {{TAGS}}
+    </div>
+
+    <ul class="meta">
+      <li><strong>{{LBL_BRAND}}</strong> {{BRAND}}</li>
+      <li><strong>{{LBL_COUNTRY}}</strong> {{COUNTRY}}</li>
+      <li><strong>{{LBL_CATEGORY}}</strong> {{CATEGORY}}</li>
+      <li><strong>{{LBL_SIZE}}</strong> {{SIZE}}</li>
+      <li><strong>{{LBL_ABV}}</strong> {{ABV}}</li>
+      <li><strong>{{LBL_SKU}}</strong> {{SKU}}</li>
+    </ul>
+
+    <h2>{{H_DESCRIPTION}}</h2>
+    <p>
+      {{DESCRIPTION}}
+    </p>
+
+    <h2>{{H_INGREDIENTS}}</h2>
+    <p>
+      {{INGREDIENTS}}
+    </p>
+
+    <h2>{{H_PRECAUTIONS}}</h2>
+    <p>
+      {{PRECAUTIONS}}
+    </p>
+
+    <h2>{{H_HISTORY}}</h2>
+
+    <div class="history">
+      <div class="history-item">
+        <span class="year">{{HIST_YEAR_1}}</span>
+        <p>{{HIST_TEXT_1}}</p>
+      </div>
+
+      <div class="history-item">
+        <span class="year">{{HIST_YEAR_2}}</span>
+        <p>{{HIST_TEXT_2}}</p>
+      </div>
+
+      <div class="history-item">
+        <span class="year">{{HIST_YEAR_3}}</span>
+        <p>{{HIST_TEXT_3}}</p>
+      </div>
+
+      <div class="history-item">
+        <span class="year">{{HIST_YEAR_4}}</span>
+        <p>{{HIST_TEXT_4}}</p>
+      </div>
+    </div>
+
+  </section>
+
+</div>
 </body>
 </html>
-"""
