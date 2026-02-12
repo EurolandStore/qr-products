@@ -13,7 +13,7 @@ body {
 .bg-store {
   position: fixed;
   inset: 0;
-  background: url("../../assets/bg-store.jpg") center / cover no-repeat;
+  background: url("bg-store.jpg") center / cover no-repeat;
   z-index: -2;
 }
 
