@@ -1,0 +1,5 @@
+{
+  "url": "https://www.reddit.com/r/wordle/comments/s3fjmw/all_the_best_starting_words_ranked_mathematically/",
+  "title": "Reddit - The heart of the internet",
+  "text": "All the best starting words, ranked mathematically I adapted my wordle solver to print out a list of every word, ranked by how good a starting word it is, so people can see how good their choice is. These are ranked using the average expected number of possible solution words that will be left after guessing the word and receiving feedback. For example, if you use the #2 word raise as a starting word, after you get the feedback, there will be an average of only 61 words left that match the information. The full list is here, and here is a list of only common words. (Couldn't use pastebin.com because apparently including an entire dictionary is a surefire way to trigger the profanity filter.) The first few: - roate (60.42) - raise (60.99) - raile (61.33) - soare (62.30) - arise (63.72) - irate (63.77) - orate (63.89) - ariel (65.29) - arose (66.01) - raine (67.06) - artel (67.50) - taler (67.74) - ratel (69.84) - aesir (69.88) - arles (69.89) - realo (69.95)"
+}

@@ -1,0 +1,5 @@
+{
+  "url": "https://community.tp-link.com/en/home/forum/topic/633420",
+  "title": "Archer AX6000 - Missing TWT enable/disable option - Home Network Community",
+  "text": "Archer AX6000 - Missing TWT enable/disable option Hello, In the wireless settings of my router there is no option to enable/disable TWT. It is turned on (as per the AX standard), but there is no way to turn it off. This option exists in my other router (Archer AX73), which I'm using in another location. The reason that I want to turn off TWT is that all mobile phones in range lose internet connectivity when switching rooms back and forth. I've had the same problem with my AX73. After months of testing in effort to identify what could be causing this, I finally found the issue - it was TWT and when I turned it off the problem never occured again. Naturally, I want to do the same with my new AX6000 as it's absolutely useless right now. To do this, as I mentioned above, I need an option that I can use to disable TWT."
+}

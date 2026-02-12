@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Anaconda navigator怎么使用？ - 知乎",
+    "url": "https://www.zhihu.com/question/284617751",
+    "snippet": "2.Anaconda navigator你可能安装之后就不会再打开了，因为你也许会通过其他方式更新或者里面的东西已经够用了。 但是，换个角度想想， 它能让初学者更好的知道自己的环境里面有哪些扩展和软件。 鼠标操作爱好者，还可以直接进行软件、扩展的管理工作。"
+  },
+  {
+    "title": "Anaconda Navigator is not running after updating",
+    "url": "https://stackoverflow.com/questions/79800196/anaconda-navigator-is-not-running-after-updating",
+    "snippet": "Oct 26, 2025 · The Anaconda Navigator initially opened correctly, but since not all packages were updated, I closed it. I then opened the Anaconda Prompt and ran the command ‘conda update –all’. The process finished successfully. I closed the Prompt, but the Navigator no longer opens. I have consulted many resources for a solution."
+  },
+  {
+    "title": "python - anaconda-navigator fails to launch, ImportError. Install was ...",
+    "url": "https://stackoverflow.com/questions/77993595/anaconda-navigator-fails-to-launch-importerror-install-was-previously-fine",
+    "snippet": "Feb 14, 2024 · Deleted the .condarc file. Launch anaconda-navigator directly through Anaconda Prompt. Manually update with conda update -n base anaconda-navigator Updated urllib3 with conda update urllib3 (reason below) Executed conda remove -n base anaconda-navigator & conda install -n base anaconda-navigator Restarted my device prior to and after all these ..."
+  },
+  {
+    "title": "Anaconda Navigator not launching on Windows 10 (Spyder as well)",
+    "url": "https://stackoverflow.com/questions/54878142/anaconda-navigator-not-launching-on-windows-10-spyder-as-well",
+    "snippet": "Feb 26, 2019 · Anaconda Navigator not launching on Windows 10 (Spyder as well) Asked 6 years, 11 months ago Modified 6 months ago Viewed 4k times"
+  },
+  {
+    "title": "not able to launch jupyter notebook from anaconda",
+    "url": "https://stackoverflow.com/questions/79031694/not-able-to-launch-jupyter-notebook-from-anaconda",
+    "snippet": "Sep 27, 2024 · 1 I also faced the same problem two hours ago.I solved it by unsetting read-only option in general tab of folder properties of runtimes in \"C:\\Users\\user\\AppData\\Roaming\\jupyter\". After that I relaunch jupyter from anaconda and it allowed me to run."
+  },
+  {
+    "title": "Text - H.R.5900 - 119th Congress (2025-2026): SCAM Act",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/5900/text",
+    "snippet": "Oct 31, 2025 · The United Nations has warned that human trafficking tied to these scam centers has reached the level of a humanitarian and human rights crisis. (9) The U.S.-China Economic and Security Review Commission has acknowledged credible reports linking scam compounds in the Philippines to Chinese espionage activity."
+  }
+]

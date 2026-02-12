@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>SKU Editor</title>
+  <style>
+    body { font-family: Arial; padding: 20px; max-width: 900px; margin: auto; }
+    textarea { width: 100%; height: 100px; }
+    select, input, button { padding: 8px; margin: 5px 0; }
+  </style>
+</head>
+<body>
+
+<h1>Product Editor</h1>
+
+<input id="sku" placeholder="SKU ID" list="sku-list">
+<datalist id="sku-list"></datalist>
+<button onclick="loadProduct()">Load</button>
+
+<hr>
+
+<select id="lang" onchange="renderLang()">
+  <option value="en">EN</option>
+  <option value="ru">RU</option>
+  <option value="ua">UA</option>
+  <option value="de">DE</option>
+  <option value="es">ES</option>
+  <option value="it">IT</option>
+  <option value="hr">HR</option>
+  <option value="hu">HU</option>
+</select>
+
+<h3>Description</h3>
+<textarea id="description"></textarea>
+
+<h3>Ingredients</h3>
+<textarea id="ingredients"></textarea>
+
+<h3>Precautions</h3>
+<textarea id="precautions"></textarea>
+
+<h3>History (JSON)</h3>
+<textarea id="history"></textarea>
+
+<button onclick="save()">Save</button>
+<button onclick="rebuild()">Rebuild HTML</button>
+
+<script>
+let product = null;
+
+// 🔐 ngrok bypass header
+const NGROK_HEADERS = {
+  "ngrok-skip-browser-warning": "true"
+};
+
+/* 🔥 load SKU list once */
+fetch("/api/skus", { headers: NGROK_HEADERS })
+  .then(r => r.json())
+  .then(skus => {
+    const list = document.getElementById("sku-list");
+    skus.forEach(sku => {
+      const opt = document.createElement("option");
+      opt.value = sku;
+      list.appendChild(opt);
+    });
+  });
+
+function loadProduct() {
+  fetch(`/api/product/${sku.value}`, { headers: NGROK_HEADERS })
+    .then(r => {
+      if (!r.ok) throw new Error("SKU not found");
+      return r.json();
+    })
+    .then(d => {
+      product = d;
+      renderLang();
+    })
+    .catch(() => alert("SKU not found"));
+}
+
+function renderLang() {
+  if (!product) return;
+  const l = lang.value;
+  const i = product.i18n[l] || {};
+  description.value = i.description || "";
+  ingredients.value = i.ingredients || "";
+  precautions.value = i.precautions || "";
+  history.value = JSON.stringify(i.history || [], null, 2);
+}
+
+function save() {
+  const l = lang.value;
+  fetch(`/api/product/${sku.value}`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      ...NGROK_HEADERS
+    },
+    body: JSON.stringify({
+      lang: l,
+      description: description.value,
+      ingredients: ingredients.value,
+      precautions: precautions.value,
+      history: JSON.parse(history.value || "[]")
+    })
+  }).then(() => alert("Saved"));
+}
+
+function rebuild() {
+  fetch(`/api/rebuild/${sku.value}`, {
+    method: "POST",
+    headers: NGROK_HEADERS
+  }).then(() => alert("HTML rebuilt"));
+}
+</script>
+
+</body>
+</html>

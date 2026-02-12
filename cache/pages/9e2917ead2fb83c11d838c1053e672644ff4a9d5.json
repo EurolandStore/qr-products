@@ -1,0 +1,5 @@
+{
+  "url": "https://community.tp-link.com/en/home/forum/topic/619312",
+  "title": "AX23 Missing TWT and OFDMA enable disable option - Home Network Community",
+  "text": "AX23 Missing TWT and OFDMA enable disable option I have just bought this router and it is missing options to Enable or Disable two critical Wi-Fi 6 features: 1) TWT 2) OFDMA I also have Archer AX20 and these appear as check boxes on Wi-Fi setting page. However for AX23 there is no option to turn this feature ON. Kindly confirm if both features are always ON be default and user cannot turn them off? Also I cannot select 80 MHz in Channel Width for 5 GHz band - Smart Connect is disabled and I only get multiple option selection \"20/40/80\" instead of only \"80\". Funnily the drop down for 2.4 GHz allows me to select 40 and 20 individually, so there is a bug in the firmware."
+}

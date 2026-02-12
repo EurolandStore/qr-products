@@ -1,0 +1,32 @@
+[
+  {
+    "title": "GitHub - juanfont/headscale: An open source, self-hosted implementation ...",
+    "url": "https://github.com/juanfont/headscale",
+    "snippet": "Headscale aims to implement a self-hosted, open source alternative to the Tailscale control server. Headscale's goal is to provide self-hosters and hobbyists with an open-source server they can use for their projects and labs."
+  },
+  {
+    "title": "Releases · juanfont/headscale - GitHub",
+    "url": "https://github.com/juanfont/headscale/releases",
+    "snippet": "An open source, self-hosted implementation of the Tailscale control server - Releases · juanfont/headscale"
+  },
+  {
+    "title": "A feature-complete Web UI for Headscale - GitHub",
+    "url": "https://github.com/tale/headplane",
+    "snippet": "Headscale is the de-facto self-hosted version of Tailscale, a popular Wireguard based VPN service. By default, it does not ship with a web UI, which is where Headplane comes in. Headplane is a feature-complete web UI for Headscale, allowing you to manage your nodes, networks, and ACLs with ease."
+  },
+  {
+    "title": "A web frontend for the headscale Tailscale-compatible ... - GitHub",
+    "url": "https://github.com/gurucomputing/headscale-ui",
+    "snippet": "Headscale UI serves on port 8080/8443 and uses a self signed cert by default. You will need to add a config.yaml file under your container-config folder so that headscale has all of the required settings declared. An example from the official headscale repo is here."
+  },
+  {
+    "title": "Tailscale 与 Headscale 的区别：如何选择远程访问方案 #46",
+    "url": "https://github.com/lesnolie/Marverick/issues/46",
+    "snippet": "Dec 17, 2025 · 如果你想在外面访问家里的电脑，或者让多个设备之间互相通信，Tailscale 是一个非常好的选择。 不过在使用之前，你需要了解 Tailscale 和它的开源替代品 Headscale 之间的区别。"
+  },
+  {
+    "title": "Gas & Electric Water Heaters & Tankless Models | A. O. Smith",
+    "url": "https://www.hotwater.com/",
+    "snippet": "Find residential and commercial tankless models, hybrid heat pumps and storage tanks. Explore A. O. Smith's line of gas and electric water heaters."
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "url": "https://sharepoint.stackexchange.com/questions/83559/how-to-deploy-wsp-to-single-web-application",
+  "title": "solution package - How to deploy wsp to single web application - SharePoint Stack Exchange",
+  "text": "I want to deploy my solution to a single web application. I used the following script: Add-SPSolution -c:/mywebpart.wsp Install-SPSolution mywebpart.wsp -WebApplication \"SharePoint Debugging\" -GacDeployment But the solution is now available in the 'Site Collection Features' list of all web applications. I know I can deactivate the feature on the web applications where I don't use it, but I don't want it to be deployed to those web applications. How can I deploy the solution so my web part is only available in a certain web application. The idea is that I want to be using the same web parts in the different web applications, but they have minor changes for each different web application. So I want to deploy version 1.1 to web application A and deploy version 1.2 to web application B"
+}

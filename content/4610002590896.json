@@ -1,0 +1,287 @@
+{
+  "sku": "4610002590896",
+  "brand": "BOGDAMILK",
+  "country_of_origin": "RUSSIA",
+  "category": "1503 CHEESE VP",
+  "size": "100G",
+  "alcohol_content": "",
+  "image": "../../assets/4610002590896.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "CHEESE BOGDAMILK CHECHIL SMOKED",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "CHEESE BOGDAMILK CHECHIL SMOKED is produced using traditional methods. Made in RUSSIA, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The BOGDAMILK brand was founded in RUSSIA."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, BOGDAMILK expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, BOGDAMILK products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "CHEESE BOGDAMILK CHECHIL SMOKED",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "CHEESE BOGDAMILK CHECHIL SMOKED — продукт бренда BOGDAMILK, произведённый в RUSSIA. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат 100G подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд BOGDAMILK был основан в RUSSIA."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд BOGDAMILK расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция BOGDAMILK известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "CHEESE BOGDAMILK CHECHIL SMOKED",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "CHEESE BOGDAMILK CHECHIL SMOKED — продукт бренду BOGDAMILK, виготовлений у RUSSIA. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат 100G підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд BOGDAMILK був заснований у RUSSIA."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд BOGDAMILK розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція BOGDAMILK відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "CHEESE BOGDAMILK CHECHIL SMOKED",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "CHEESE BOGDAMILK CHECHIL SMOKED ist ein Produkt der Marke BOGDAMILK aus RUSSIA. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format 100G eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke BOGDAMILK wurde in RUSSIA gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte BOGDAMILK sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden BOGDAMILK Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "CHEESE BOGDAMILK CHECHIL SMOKED",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "CHEESE BOGDAMILK CHECHIL SMOKED es un producto de la marca BOGDAMILK elaborado en RUSSIA. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato 100G es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca BOGDAMILK fue fundada en RUSSIA."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, BOGDAMILK amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos BOGDAMILK se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "CHEESE BOGDAMILK CHECHIL SMOKED",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "CHEESE BOGDAMILK CHECHIL SMOKED è un prodotto del marchio BOGDAMILK realizzato in RUSSIA. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato 100G è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio BOGDAMILK è stato fondato in RUSSIA."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, BOGDAMILK ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti BOGDAMILK sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "CHEESE BOGDAMILK CHECHIL SMOKED",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "CHEESE BOGDAMILK CHECHIL SMOKED je proizvod brenda BOGDAMILK proizveden u RUSSIA. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format 100G prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka BOGDAMILK osnovana je u RUSSIA."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je BOGDAMILK proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi BOGDAMILK koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "CHEESE BOGDAMILK CHECHIL SMOKED",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) CHEESE BOGDAMILK CHECHIL SMOKED a BOGDAMILK márka terméke RUSSIA területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) 100G kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A BOGDAMILK márkát RUSSIA területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a BOGDAMILK kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a BOGDAMILK termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "CHEESE BOGDAMILK CHECHIL SMOKED"
+}

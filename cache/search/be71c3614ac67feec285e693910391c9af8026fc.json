@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Facebook share link - can you customize the message body text?",
+    "url": "https://stackoverflow.com/questions/5023602/facebook-share-link-can-you-customize-the-message-body-text",
+    "snippet": "Feb 17, 2011 · Facebook will not allow developers pre-fill messages. Developers may customize the story by providing OG meta tags, but it's …"
+  },
+  {
+    "title": "Android Facebook integration with invalid key hash",
+    "url": "https://stackoverflow.com/questions/23674131/android-facebook-integration-with-invalid-key-hash",
+    "snippet": "Feb 24, 2017 · The Facebook SDK for Unity gets the wrong key hash. It gets the key from \"C:\\Users\\\"your …"
+  },
+  {
+    "title": "Facebook share link without JavaScript - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/9120539/facebook-share-link-without-javascript",
+    "snippet": "Learn how to create a Facebook share link without using JavaScript, including tips and solutions for effective sharing."
+  },
+  {
+    "title": "How to extract the direct facebook video url - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/34978051/how-to-extract-the-direct-facebook-video-url",
+    "snippet": "I am trying to extract the url for facebook video file page from the facebook video link but I am not able to proceed how. For example: The …"
+  },
+  {
+    "title": "Decoding facebook's blob video url - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/48843356/decoding-facebooks-blob-video-url",
+    "snippet": "Facebook downloads the audio and the video separately, so get the audio link from the google chrome inspector, by right click on the video …"
+  },
+  {
+    "title": "Welcome to the Free Music Archive - Free Music Archive",
+    "url": "https://freemusicarchive.org/static",
+    "snippet": "Passionate about music creation, I've developed a comprehensive catalog of top-notch, royalty-free video game music. Each track is designed …"
+  }
+]

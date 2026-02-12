@@ -1,0 +1,5 @@
+{
+  "url": "https://stackoverflow.com/questions/73167243/difference-between-zu-and-lu-in-c",
+  "title": "printf - Difference between %zu and %lu in C - Stack Overflow",
+  "text": "What is the difference between %zu and %lu in string formatting in C? %lu is used for unsigned long values and %zu is used for size_t values, but in practice, size_t is just an unsigned long . CppCheck complains about it, but both work for both types in my experience. Is %zu just a standardized way of formatting size_t because size_t is commonly used, or is there more to it?"
+}

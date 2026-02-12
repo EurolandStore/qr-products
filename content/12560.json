@@ -1,0 +1,287 @@
+{
+  "sku": "12560",
+  "brand": "PARADISE MARKET",
+  "country_of_origin": "USA",
+  "category": "1403 MEAT LB",
+  "size": "LB",
+  "alcohol_content": "",
+  "image": "../../assets/12560.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "BOLOGNA PARADISE MARKET CHICKEN",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "BOLOGNA PARADISE MARKET CHICKEN is produced using traditional methods. Made in USA, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The PARADISE MARKET brand was founded in USA."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, PARADISE MARKET expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, PARADISE MARKET products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "BOLOGNA PARADISE MARKET CHICKEN",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "BOLOGNA PARADISE MARKET CHICKEN — продукт бренда PARADISE MARKET, произведённый в USA. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат LB подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд PARADISE MARKET был основан в USA."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд PARADISE MARKET расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция PARADISE MARKET известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "BOLOGNA PARADISE MARKET CHICKEN",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "BOLOGNA PARADISE MARKET CHICKEN — продукт бренду PARADISE MARKET, виготовлений у USA. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат LB підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд PARADISE MARKET був заснований у USA."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд PARADISE MARKET розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція PARADISE MARKET відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "BOLOGNA PARADISE MARKET CHICKEN",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "BOLOGNA PARADISE MARKET CHICKEN ist ein Produkt der Marke PARADISE MARKET aus USA. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format LB eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke PARADISE MARKET wurde in USA gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte PARADISE MARKET sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden PARADISE MARKET Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "BOLOGNA PARADISE MARKET CHICKEN",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "BOLOGNA PARADISE MARKET CHICKEN es un producto de la marca PARADISE MARKET elaborado en USA. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato LB es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca PARADISE MARKET fue fundada en USA."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, PARADISE MARKET amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos PARADISE MARKET se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "BOLOGNA PARADISE MARKET CHICKEN",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "BOLOGNA PARADISE MARKET CHICKEN è un prodotto del marchio PARADISE MARKET realizzato in USA. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato LB è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio PARADISE MARKET è stato fondato in USA."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, PARADISE MARKET ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti PARADISE MARKET sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "BOLOGNA PARADISE MARKET CHICKEN",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "BOLOGNA PARADISE MARKET CHICKEN je proizvod brenda PARADISE MARKET proizveden u USA. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format LB prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka PARADISE MARKET osnovana je u USA."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je PARADISE MARKET proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi PARADISE MARKET koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "BOLOGNA PARADISE MARKET CHICKEN",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) BOLOGNA PARADISE MARKET CHICKEN a PARADISE MARKET márka terméke USA területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) LB kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A PARADISE MARKET márkát USA területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a PARADISE MARKET kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a PARADISE MARKET termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "BOLOGNA PARADISE MARKET CHICKEN"
+}

@@ -1,0 +1,287 @@
+{
+  "sku": "850010222363",
+  "brand": "TASTE OF THE SOUTH",
+  "country_of_origin": "USA",
+  "category": "1407 GOURMET FOOD",
+  "size": "10OZ",
+  "alcohol_content": "",
+  "image": "../../assets/850010222363.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP is produced using traditional methods. Made in USA, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The TASTE OF THE SOUTH brand was founded in USA."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, TASTE OF THE SOUTH expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, TASTE OF THE SOUTH products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP — продукт бренда TASTE OF THE SOUTH, произведённый в USA. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат 10OZ подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд TASTE OF THE SOUTH был основан в USA."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд TASTE OF THE SOUTH расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция TASTE OF THE SOUTH известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP — продукт бренду TASTE OF THE SOUTH, виготовлений у USA. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат 10OZ підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд TASTE OF THE SOUTH був заснований у USA."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд TASTE OF THE SOUTH розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція TASTE OF THE SOUTH відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP ist ein Produkt der Marke TASTE OF THE SOUTH aus USA. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format 10OZ eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke TASTE OF THE SOUTH wurde in USA gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte TASTE OF THE SOUTH sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden TASTE OF THE SOUTH Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP es un producto de la marca TASTE OF THE SOUTH elaborado en USA. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato 10OZ es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca TASTE OF THE SOUTH fue fundada en USA."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, TASTE OF THE SOUTH amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos TASTE OF THE SOUTH se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP è un prodotto del marchio TASTE OF THE SOUTH realizzato in USA. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato 10OZ è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio TASTE OF THE SOUTH è stato fondato in USA."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, TASTE OF THE SOUTH ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti TASTE OF THE SOUTH sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP je proizvod brenda TASTE OF THE SOUTH proizveden u USA. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format 10OZ prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka TASTE OF THE SOUTH osnovana je u USA."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je TASTE OF THE SOUTH proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi TASTE OF THE SOUTH koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP a TASTE OF THE SOUTH márka terméke USA területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) 10OZ kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A TASTE OF THE SOUTH márkát USA területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a TASTE OF THE SOUTH kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a TASTE OF THE SOUTH termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "SPREAD TASTE OF THE SOUTH FRIED PICKLE DIP"
+}

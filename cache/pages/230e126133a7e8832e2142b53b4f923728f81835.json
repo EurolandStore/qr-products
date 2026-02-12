@@ -1,0 +1,5 @@
+{
+  "url": "https://learn.microsoft.com/en-us/answers/questions/5743222/find-my-windows-11-product-key",
+  "title": "find my windows 11 product key - Microsoft Q&A",
+  "text": "1 The method depends on what type of Office licence you have, are you experiencing activation errors after the upgrade? 2 Click your Start Button, type cmd then right click Command Prompt and choose 'Run as Administrator' Run or paste this command and hit Enter: slmgr.vbs /dlv Please post a screenshot of the resulting dialog 3 Download the free ShowKeyPlus app from the Microsoft Store. Please provide a screenshot of that app window and please hide your product key in the screenshot."
+}

@@ -1,0 +1,287 @@
+{
+  "sku": "4850013281295",
+  "brand": "GEORGIAN VILLAGE",
+  "country_of_origin": "GEORGIA",
+  "category": "1907 PICKLED VEGETABLES",
+  "size": "950ML",
+  "alcohol_content": "",
+  "image": "../../assets/4850013281295.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "GRAPE LEAVES GEORGIAN VILLAGE",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "GRAPE LEAVES GEORGIAN VILLAGE is produced using traditional methods. Made in GEORGIA, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The GEORGIAN VILLAGE brand was founded in GEORGIA."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, GEORGIAN VILLAGE expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, GEORGIAN VILLAGE products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "GRAPE LEAVES GEORGIAN VILLAGE",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "GRAPE LEAVES GEORGIAN VILLAGE — продукт бренда GEORGIAN VILLAGE, произведённый в GEORGIA. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат 950ML подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд GEORGIAN VILLAGE был основан в GEORGIA."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд GEORGIAN VILLAGE расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция GEORGIAN VILLAGE известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "GRAPE LEAVES GEORGIAN VILLAGE",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "GRAPE LEAVES GEORGIAN VILLAGE — продукт бренду GEORGIAN VILLAGE, виготовлений у GEORGIA. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат 950ML підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд GEORGIAN VILLAGE був заснований у GEORGIA."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд GEORGIAN VILLAGE розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція GEORGIAN VILLAGE відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "GRAPE LEAVES GEORGIAN VILLAGE",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "GRAPE LEAVES GEORGIAN VILLAGE ist ein Produkt der Marke GEORGIAN VILLAGE aus GEORGIA. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format 950ML eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke GEORGIAN VILLAGE wurde in GEORGIA gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte GEORGIAN VILLAGE sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden GEORGIAN VILLAGE Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "GRAPE LEAVES GEORGIAN VILLAGE",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "GRAPE LEAVES GEORGIAN VILLAGE es un producto de la marca GEORGIAN VILLAGE elaborado en GEORGIA. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato 950ML es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca GEORGIAN VILLAGE fue fundada en GEORGIA."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, GEORGIAN VILLAGE amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos GEORGIAN VILLAGE se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "GRAPE LEAVES GEORGIAN VILLAGE",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "GRAPE LEAVES GEORGIAN VILLAGE è un prodotto del marchio GEORGIAN VILLAGE realizzato in GEORGIA. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato 950ML è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio GEORGIAN VILLAGE è stato fondato in GEORGIA."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, GEORGIAN VILLAGE ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti GEORGIAN VILLAGE sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "GRAPE LEAVES GEORGIAN VILLAGE",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "GRAPE LEAVES GEORGIAN VILLAGE je proizvod brenda GEORGIAN VILLAGE proizveden u GEORGIA. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format 950ML prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka GEORGIAN VILLAGE osnovana je u GEORGIA."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je GEORGIAN VILLAGE proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi GEORGIAN VILLAGE koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "GRAPE LEAVES GEORGIAN VILLAGE",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) GRAPE LEAVES GEORGIAN VILLAGE a GEORGIAN VILLAGE márka terméke GEORGIA területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) 950ML kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A GEORGIAN VILLAGE márkát GEORGIA területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a GEORGIAN VILLAGE kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a GEORGIAN VILLAGE termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "GRAPE LEAVES GEORGIAN VILLAGE"
+}

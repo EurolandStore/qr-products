@@ -1,0 +1,174 @@
+{
+  "sku": "SALAME.0.03.5",
+  "brand": "LA QUERCIA",
+  "country_of_origin": "USA",
+  "category": "1407 GOURMET FOOD",
+  "size": "2OZ",
+  "alcohol_content": "",
+  "image": "../../assets/SALAME.0.03.5.jpg",
+  "tags": [],
+  "i18n": {
+    "en": {
+      "title": "Beer Leffe Blonde",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "A flavorful grocery item (2OZ) made for convenient everyday use. A convenient choice for quick meals and moments. Valued for its consistent quality and suitability for everyday use.",
+      "ingredients": "Ingredients: see manufacturer’s labeling on the package. Commonly used in traditional recipes and everyday cooking.",
+      "precautions": "Store in a cool, dry place. Refrigerate after opening if indicated.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The LA QUERCIA brand originates from USA, reflecting local traditions and expertise."
+        },
+        {
+          "year": "Production",
+          "text": "Over time, LA QUERCIA has focused on maintaining consistent quality and careful production standards within the 1407 gourmet food category."
+        },
+        {
+          "year": "Today",
+          "text": "Today, LA QUERCIA products are appreciated for their reliability and suitability for everyday use."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Public product information",
+          "url": ""
+        }
+      ]
+    },
+    "ru": {
+      "title": "ПИВО LEFFE BLONDE",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Объём",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "",
+      "ingredients": "",
+      "precautions": "",
+      "history": [
+        {
+          "year": "1240",
+          "text": ""
+        },
+        {
+          "year": "XIII-XVIII века",
+          "text": ""
+        },
+        {
+          "year": "1952",
+          "text": ""
+        },
+        {
+          "year": "Сегодня",
+          "text": ""
+        }
+      ]
+    },
+    "ua": {
+      "title": "ПИВО LEFFE BLONDE",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Об'єм",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "",
+      "ingredients": "",
+      "precautions": "",
+      "history": [
+        {
+          "year": "1240",
+          "text": ""
+        },
+        {
+          "year": "XIII-XVIII століття",
+          "text": ""
+        },
+        {
+          "year": "1952",
+          "text": ""
+        },
+        {
+          "year": "Сьогодні",
+          "text": ""
+        }
+      ]
+    },
+    "de": {
+      "title": "",
+      "meta": {},
+      "sections": {},
+      "description": "",
+      "ingredients": "",
+      "precautions": "",
+      "history": []
+    },
+    "es": {
+      "title": "",
+      "meta": {},
+      "sections": {},
+      "description": "",
+      "ingredients": "",
+      "precautions": "",
+      "history": []
+    },
+    "it": {
+      "title": "",
+      "meta": {},
+      "sections": {},
+      "description": "",
+      "ingredients": "",
+      "precautions": "",
+      "history": []
+    },
+    "hr": {
+      "title": "",
+      "meta": {},
+      "sections": {},
+      "description": "",
+      "ingredients": "",
+      "precautions": "",
+      "history": []
+    },
+    "hu": {
+      "title": "",
+      "meta": {},
+      "sections": {},
+      "description": "",
+      "ingredients": "",
+      "precautions": "",
+      "history": []
+    }
+  },
+  "product_name": "PROSCIUTTO LA QUERCIA AMERICANO"
+}

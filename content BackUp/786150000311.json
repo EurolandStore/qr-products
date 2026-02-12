@@ -1,0 +1,99 @@
+{
+  "sku": "786150000311",
+  "brand": "Leffe",
+  "country_of_origin": "Belgium",
+  "category": "Beer",
+  "size": "0.35 L",
+  "alcohol_content": "6.6% ABV",
+  "image": "../../assets/786150000311.jpg",
+  "tags": ["Organic", "Kosher"],
+
+  "i18n": {
+    "en": {
+      "title": "Beer Leffe Blonde",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "",
+      "ingredients": "",
+      "precautions": "",
+      "history": [
+        { "year": "1240", "text": "" },
+        { "year": "13th–18th century", "text": "" },
+        { "year": "1952", "text": "" },
+        { "year": "Today", "text": "" }
+      }
+    },
+
+    "ru": {
+      "title": "ПИВО LEFFE BLONDE",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Объём",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "",
+      "ingredients": "",
+      "precautions": "",
+      "history": [
+        { "year": "1240", "text": "" },
+        { "year": "XIII–XVIII века", "text": "" },
+        { "year": "1952", "text": "" },
+        { "year": "Сегодня", "text": "" }
+      }
+    },
+
+    "ua": {
+      "title": "ПИВО LEFFE BLONDE",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Об’єм",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "",
+      "ingredients": "",
+      "precautions": "",
+      "history": [
+        { "year": "1240", "text": "" },
+        { "year": "XIII–XVIII століття", "text": "" },
+        { "year": "1952", "text": "" },
+        { "year": "Сьогодні", "text": "" }
+      ]
+    },
+
+    "de": { "title": "", "meta": {}, "sections": {}, "description": "", "ingredients": "", "precautions": "", "history": [] },
+    "es": { "title": "", "meta": {}, "sections": {}, "description": "", "ingredients": "", "precautions": "", "history": [] },
+    "it": { "title": "", "meta": {}, "sections": {}, "description": "", "ingredients": "", "precautions": "", "history": [] },
+    "hr": { "title": "", "meta": {}, "sections": {}, "description": "", "ingredients": "", "precautions": "", "history": [] },
+    "hu": { "title": "", "meta": {}, "sections": {}, "description": "", "ingredients": "", "precautions": "", "history": [] }
+  }
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Cypress testing solutions | Cypress Documentation | Cypress Document…",
+    "url": "https://docs.cypress.io/app/get-started/why-cypress",
+    "snippet": "Explore Cypress documentation for a comprehensive guide on end-to-end, component, and accessibility testing. Discover features, …"
+  },
+  {
+    "title": "Install using npm, Yarn, or pnpm | Cypress Documentation | Cypress ...",
+    "url": "https://docs.cypress.io/app/get-started/install-cypress",
+    "snippet": "What you'll learn How to install Cypress using npm, Yarn, or pnpm What you need before installing Advanced installation options"
+  },
+  {
+    "title": "Introduction to Cypress | Cypress Documentation",
+    "url": "https://docs.cypress.io/app/core-concepts/introduction-to-cypress",
+    "snippet": "Learn the basics of Cypress, including querying elements, chaining commands, and interacting with elements."
+  },
+  {
+    "title": "End-to-End Testing: Your First Test with Cypress | Cypress Documentati…",
+    "url": "https://docs.cypress.io/app/end-to-end-testing/writing-your-first-end-to-end-test",
+    "snippet": "Dive into Cypress end-to-end testing with a guide on writing your first test. Learn step-by-step, best practices, and tips for efficient test …"
+  },
+  {
+    "title": "Open the Cypress app: Step-by-Step Guide | Cypress Documentation",
+    "url": "https://docs.cypress.io/app/get-started/open-the-app",
+    "snippet": "Open the app in Cypress to visually see, review, and debug end-to-end and component tests."
+  }
+]

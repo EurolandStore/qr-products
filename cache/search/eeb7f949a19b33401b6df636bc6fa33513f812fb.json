@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Windows Defender Found Trojan:Win32/Vigorf.A and Trojan:Win32 ...",
+    "url": "https://www.bleepingcomputer.com/forums/t/802646/windows-defender-found-trojanwin32vigorfa-and-trojanwin32agentteslaml/",
+    "snippet": "Oct 21, 2024 · Windows Defender shows the viruses in its results but when I click \"Remove\" or \"Quarantine\", nothing happens. Unsure why. I noticed the past three nights that when I try and shut …"
+  },
+  {
+    "title": "UUID Decoder - UUIDTools.com",
+    "url": "https://www.uuidtools.com/decode",
+    "snippet": "UUIDs are written in hexadecimal which means each digit can be a number from 0 to 9 or a letter from a to f. That is 16 possibilities for each digit. So each hexadecimal digit represents 4 bits. There are 32 …"
+  },
+  {
+    "title": "ETW (Event Tracing for Windows) Providers and their GUIDs for …",
+    "url": "https://gist.github.com/guitarrapc/35a94b908bad677a7310",
+    "snippet": "Jan 8, 2026 · Instantly share code, notes, and snippets. Microsoft-Windows-EmbeddedAppLauncher {56285391-9B96-4696-9EAD-2D17F98FBDB2} Microsoft-Windows-EndpointTriggerProvider …"
+  },
+  {
+    "title": "Trojan in Windows\\Installer folder? : r/BitDefender - Reddit",
+    "url": "https://www.reddit.com/r/BitDefender/comments/1bm57zl/trojan_in_windowsinstaller_folder/",
+    "snippet": "Mar 23, 2024 · You could run a Defender Offline Scan as well as boot to Safe Mode and run Malwarebytes or Norton Power Eraser just to be sure. 99.9% likely Bitdefender already removed …"
+  },
+  {
+    "title": "Interesting Windows event IDs for malware or general investigation",
+    "url": "https://support.sophos.com/support/s/article/KBA-000006797?language=en_US",
+    "snippet": "Installation of Kernel-level drivers that can be used to forcibly turn off security software. A network worm that is capable of remotely executing commands and establishing persistence using a Windows …"
+  },
+  {
+    "title": "Possible Trojan Infection - Tech Support Forum",
+    "url": "https://www.techsupportforum.com/threads/possible-trojan-infection.1240188/",
+    "snippet": "Jan 23, 2020 · My computer will not upload the FRST or ADDITION files so I am starting this thread from another computer for now. I could only get the FRST file uploaded before now getting BLOCKED …"
+  }
+]

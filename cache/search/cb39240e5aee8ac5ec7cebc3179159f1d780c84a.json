@@ -1,0 +1,32 @@
+[
+  {
+    "title": "BKK",
+    "url": "https://hjelp.bkk.no/",
+    "snippet": "BKK provides customer service for electricity-related inquiries via phone, email, or chat."
+  },
+  {
+    "title": "Vue-ISSafe - BKK",
+    "url": "https://tjenester.bkk.no/issafe/vue/dist/electrician/login",
+    "snippet": "We're sorry but ISSafe doesn't work properly without JavaScript enabled. Please enable it to continue."
+  },
+  {
+    "title": "Strømbruddskart BKK",
+    "url": "https://geonis.bkk.no/portal/apps/dashboards/210b9d648c2c4d7580e22049ee5b2e68",
+    "snippet": "ArcGIS Dashboards Ingen data ArcGIS Dashboards"
+  },
+  {
+    "title": "Flytting av nettanlegg - Mine sider - BKK",
+    "url": "https://minoversikt-nett.bkk.no/Touch/Login/movegridequipmentsiteselector",
+    "snippet": "Jeg er ikke kunde hos BKK AS Selv om du ikke har et kundeforhold hos oss kan du opprette saken i vår saksportal. Du må først registrere …"
+  },
+  {
+    "title": "BKK AS Saksportal - Mine sider",
+    "url": "https://minoversikt-nett.bkk.no/Touch/Login/loginstakeholder",
+    "snippet": "Vår saksportal kan benyttes av utbyggere, entreprenører, firmaer, installatører, grunneiere osv. som ønsker å opprette …"
+  },
+  {
+    "title": "Mine sider - BKK",
+    "url": "https://minoversikt-nett.bkk.no/Touch/login?lang=en-GB",
+    "snippet": "Enter your mobile number and date of birth, and press \"Send password\" A one-time password is sent to your mobile phone. You'll get access …"
+  }
+]

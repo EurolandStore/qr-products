@@ -1,0 +1,5 @@
+{
+  "url": "https://www.reddit.com/r/wordle/comments/s08r3f/wordle_archive_is_here/",
+  "title": "Reddit - The heart of the internet",
+  "text": "Wordle Archive is here! I wanted an archive and I couldn't find an archive and so I made an archive. https://www.devangthakkar.com/wordle_archive/ This has all the Wordles starting from Wordle 1 to the current day. I built this on top of https://octokatherine.github.io/word-master/ but instead of random words, this has the actual Wordles from https://www.powerlanguage.co.uk/wordle/ The desktop version has more navigation options than the mobile version. Have fun! [UPDATE]: The archive now has navigation so you can choose the exact wordle you want to go to. [UPDATE 2]: The archive now tracks your progress so you can see which wordles you have completed. [UPDATE 3]: Colorblind mode now added."
+}

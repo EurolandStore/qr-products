@@ -1,0 +1,5 @@
+{
+  "url": "https://sharepoint.stackexchange.com/questions/45675/how-do-i-update-an-already-existing-wsp-on-farm",
+  "title": "powershell - How do I update an already existing wsp on farm? - SharePoint Stack Exchange",
+  "text": "Possible Duplicate: Update-SPSolution does not Deploy Solution I have a wsp that is already deployed on the farm. I made some code changes. I cannot use the Add-SPSolution command because I receive an \"wsp already exists\" error. All I sm trying to accomplish is update the wsp that exists in the solution store. Then afterhours via Central Admin I'd like to deploy this updated wsp. There's an Update-SPSolution command. Can I use this command? What does the -GACDeployment option do? Will this actually deploy the wsp? Will this cause an IIS reset? Thanks, Ninel"
+}

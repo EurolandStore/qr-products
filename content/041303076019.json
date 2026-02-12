@@ -1,0 +1,287 @@
+{
+  "sku": "041303076019",
+  "brand": "ESSENTIAL EVERY DAY",
+  "country_of_origin": "USA",
+  "category": "1507 MILK",
+  "size": "1.89L",
+  "alcohol_content": "",
+  "image": "../../assets/041303076019.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "MILK ESSENTIAL ALMOND UNSWEETENED",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "MILK ESSENTIAL ALMOND UNSWEETENED is produced using traditional methods. Made in USA, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The ESSENTIAL EVERY DAY brand was founded in USA."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, ESSENTIAL EVERY DAY expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, ESSENTIAL EVERY DAY products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "MILK ESSENTIAL ALMOND UNSWEETENED",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "MILK ESSENTIAL ALMOND UNSWEETENED — продукт бренда ESSENTIAL EVERY DAY, произведённый в USA. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат 1.89L подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд ESSENTIAL EVERY DAY был основан в USA."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд ESSENTIAL EVERY DAY расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция ESSENTIAL EVERY DAY известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "MILK ESSENTIAL ALMOND UNSWEETENED",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "MILK ESSENTIAL ALMOND UNSWEETENED — продукт бренду ESSENTIAL EVERY DAY, виготовлений у USA. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат 1.89L підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд ESSENTIAL EVERY DAY був заснований у USA."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд ESSENTIAL EVERY DAY розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція ESSENTIAL EVERY DAY відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "MILK ESSENTIAL ALMOND UNSWEETENED",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "MILK ESSENTIAL ALMOND UNSWEETENED ist ein Produkt der Marke ESSENTIAL EVERY DAY aus USA. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format 1.89L eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke ESSENTIAL EVERY DAY wurde in USA gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte ESSENTIAL EVERY DAY sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden ESSENTIAL EVERY DAY Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "MILK ESSENTIAL ALMOND UNSWEETENED",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "MILK ESSENTIAL ALMOND UNSWEETENED es un producto de la marca ESSENTIAL EVERY DAY elaborado en USA. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato 1.89L es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca ESSENTIAL EVERY DAY fue fundada en USA."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, ESSENTIAL EVERY DAY amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos ESSENTIAL EVERY DAY se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "MILK ESSENTIAL ALMOND UNSWEETENED",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "MILK ESSENTIAL ALMOND UNSWEETENED è un prodotto del marchio ESSENTIAL EVERY DAY realizzato in USA. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato 1.89L è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio ESSENTIAL EVERY DAY è stato fondato in USA."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, ESSENTIAL EVERY DAY ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti ESSENTIAL EVERY DAY sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "MILK ESSENTIAL ALMOND UNSWEETENED",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "MILK ESSENTIAL ALMOND UNSWEETENED je proizvod brenda ESSENTIAL EVERY DAY proizveden u USA. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format 1.89L prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka ESSENTIAL EVERY DAY osnovana je u USA."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je ESSENTIAL EVERY DAY proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi ESSENTIAL EVERY DAY koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "MILK ESSENTIAL ALMOND UNSWEETENED",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) MILK ESSENTIAL ALMOND UNSWEETENED a ESSENTIAL EVERY DAY márka terméke USA területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) 1.89L kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A ESSENTIAL EVERY DAY márkát USA területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a ESSENTIAL EVERY DAY kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a ESSENTIAL EVERY DAY termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "MILK ESSENTIAL ALMOND UNSWEETENED"
+}

@@ -1,0 +1,287 @@
+{
+  "sku": "157477547894",
+  "brand": "SANTORINI",
+  "country_of_origin": "GREECE",
+  "category": "1909 PICKLED OLIVES",
+  "size": "12OZ",
+  "alcohol_content": "",
+  "image": "../../assets/157477547894.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "OLIVES SANTORINI GREEN PITTED 12OZ",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "OLIVES SANTORINI GREEN PITTED 12OZ is produced using traditional methods. Made in GREECE, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The SANTORINI brand was founded in GREECE."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, SANTORINI expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, SANTORINI products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "OLIVES SANTORINI GREEN PITTED 12OZ",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "OLIVES SANTORINI GREEN PITTED 12OZ — продукт бренда SANTORINI, произведённый в GREECE. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат 12OZ подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд SANTORINI был основан в GREECE."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд SANTORINI расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция SANTORINI известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "OLIVES SANTORINI GREEN PITTED 12OZ",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "OLIVES SANTORINI GREEN PITTED 12OZ — продукт бренду SANTORINI, виготовлений у GREECE. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат 12OZ підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд SANTORINI був заснований у GREECE."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд SANTORINI розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція SANTORINI відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "OLIVES SANTORINI GREEN PITTED 12OZ",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "OLIVES SANTORINI GREEN PITTED 12OZ ist ein Produkt der Marke SANTORINI aus GREECE. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format 12OZ eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke SANTORINI wurde in GREECE gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte SANTORINI sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden SANTORINI Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "OLIVES SANTORINI GREEN PITTED 12OZ",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "OLIVES SANTORINI GREEN PITTED 12OZ es un producto de la marca SANTORINI elaborado en GREECE. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato 12OZ es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca SANTORINI fue fundada en GREECE."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, SANTORINI amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos SANTORINI se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "OLIVES SANTORINI GREEN PITTED 12OZ",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "OLIVES SANTORINI GREEN PITTED 12OZ è un prodotto del marchio SANTORINI realizzato in GREECE. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato 12OZ è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio SANTORINI è stato fondato in GREECE."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, SANTORINI ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti SANTORINI sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "OLIVES SANTORINI GREEN PITTED 12OZ",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "OLIVES SANTORINI GREEN PITTED 12OZ je proizvod brenda SANTORINI proizveden u GREECE. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format 12OZ prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka SANTORINI osnovana je u GREECE."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je SANTORINI proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi SANTORINI koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "OLIVES SANTORINI GREEN PITTED 12OZ",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) OLIVES SANTORINI GREEN PITTED 12OZ a SANTORINI márka terméke GREECE területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) 12OZ kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A SANTORINI márkát GREECE területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a SANTORINI kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a SANTORINI termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "OLIVES SANTORINI GREEN PITTED 12OZ"
+}

@@ -1,0 +1,287 @@
+{
+  "sku": "859091001447",
+  "brand": "SAN BENEDETTO",
+  "country_of_origin": "CZECH REP",
+  "category": "2002 BEVERAGES",
+  "size": "1.5L",
+  "alcohol_content": "",
+  "image": "../../assets/859091001447.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "TEA ICE SAN BENEDETTO LEMON",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "TEA ICE SAN BENEDETTO LEMON is produced using traditional methods. Made in CZECH REP, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The SAN BENEDETTO brand was founded in CZECH REP."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, SAN BENEDETTO expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, SAN BENEDETTO products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "TEA ICE SAN BENEDETTO LEMON",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "TEA ICE SAN BENEDETTO LEMON — продукт бренда SAN BENEDETTO, произведённый в CZECH REP. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат 1.5L подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд SAN BENEDETTO был основан в CZECH REP."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд SAN BENEDETTO расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция SAN BENEDETTO известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "TEA ICE SAN BENEDETTO LEMON",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "TEA ICE SAN BENEDETTO LEMON — продукт бренду SAN BENEDETTO, виготовлений у CZECH REP. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат 1.5L підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд SAN BENEDETTO був заснований у CZECH REP."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд SAN BENEDETTO розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція SAN BENEDETTO відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "TEA ICE SAN BENEDETTO LEMON",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "TEA ICE SAN BENEDETTO LEMON ist ein Produkt der Marke SAN BENEDETTO aus CZECH REP. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format 1.5L eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke SAN BENEDETTO wurde in CZECH REP gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte SAN BENEDETTO sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden SAN BENEDETTO Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "TEA ICE SAN BENEDETTO LEMON",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "TEA ICE SAN BENEDETTO LEMON es un producto de la marca SAN BENEDETTO elaborado en CZECH REP. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato 1.5L es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca SAN BENEDETTO fue fundada en CZECH REP."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, SAN BENEDETTO amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos SAN BENEDETTO se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "TEA ICE SAN BENEDETTO LEMON",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "TEA ICE SAN BENEDETTO LEMON è un prodotto del marchio SAN BENEDETTO realizzato in CZECH REP. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato 1.5L è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio SAN BENEDETTO è stato fondato in CZECH REP."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, SAN BENEDETTO ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti SAN BENEDETTO sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "TEA ICE SAN BENEDETTO LEMON",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "TEA ICE SAN BENEDETTO LEMON je proizvod brenda SAN BENEDETTO proizveden u CZECH REP. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format 1.5L prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka SAN BENEDETTO osnovana je u CZECH REP."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je SAN BENEDETTO proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi SAN BENEDETTO koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "TEA ICE SAN BENEDETTO LEMON",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) TEA ICE SAN BENEDETTO LEMON a SAN BENEDETTO márka terméke CZECH REP területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) 1.5L kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A SAN BENEDETTO márkát CZECH REP területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a SAN BENEDETTO kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a SAN BENEDETTO termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "TEA ICE SAN BENEDETTO LEMON"
+}

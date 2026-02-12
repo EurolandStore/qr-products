@@ -1,0 +1,32 @@
+[
+  {
+    "title": "windows - What is \"%AppData%\"? - Super User",
+    "url": "https://superuser.com/questions/632891/what-is-appdata",
+    "snippet": "7 The AppData\\Local and AppData\\Roaming locations are the preferred locations for applications to store data that is not required to be exposed to the user. In a domain environment, the Roaming is used to copy the user's environment as they log on to different computers. You can find a description in the Windows File System Namespace Usage ..."
+  },
+  {
+    "title": "How to generically refer to the AppData folder on the Windows command ...",
+    "url": "https://superuser.com/questions/681744/how-to-generically-refer-to-the-appdata-folder-on-the-windows-command-line",
+    "snippet": "23 The original User's Profile directory lives in a directory like C:\\Users\\username\\AppData. How can I refer to the current user's profile directory when using the Windows command line? By searching I found out about %UserProfile% that perhaps refer to the current username, but it does not really work."
+  },
+  {
+    "title": "Is there a list of Windows special directories/shortcuts (like %TEMP ...",
+    "url": "https://superuser.com/questions/217504/is-there-a-list-of-windows-special-directories-shortcuts-like-temp",
+    "snippet": "The question is quite straight forward, I need a list of environment variables (which is a fixed list) and is answered by Dennis Williamson."
+  },
+  {
+    "title": "Where are the user profile directories of Google Chrome located in?",
+    "url": "https://superuser.com/questions/329112/where-are-the-user-profile-directories-of-google-chrome-located-in",
+    "snippet": "3 User profiles are stored in User Data Directory and it vary depending on the operating system. The easiest way is to navigate to chrome://version and look for the Profile Path field. Example (Windows): [Profile Path] C:\\Users\\Alice\\AppData\\Local\\Google\\Chrome\\User Data\\Default [User Data Dir] C:\\Users\\Alice\\AppData\\Local\\Google\\Chrome\\User Data"
+  },
+  {
+    "title": "Saving data: Program Files vs AppData [Windows] - Super User",
+    "url": "https://superuser.com/questions/1445143/saving-data-program-files-vs-appdata-windows",
+    "snippet": "Jul 13, 2019 · In AppData however, the user always have rights to write there, even if they are not administrators. So a program that needs to write data, for example a webbrowser with its cache will have to use AppData to write that cache or the user would get an UAC prompt asking for administrative access everytime they start the program."
+  },
+  {
+    "title": "The Best Lesbian Dating Apps for Queer Women & Non-Binary People",
+    "url": "https://www.theknot.com/content/best-lesbian-dating-apps",
+    "snippet": "Dec 14, 2023 · Find your next date, relationship, or forever partner on one of these lesbian dating apps. Here are the best lesbian, queer, & non-binary dating apps."
+  }
+]

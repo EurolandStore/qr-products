@@ -1,0 +1,287 @@
+{
+  "sku": "809747067020",
+  "brand": "ETI",
+  "country_of_origin": "TURKEY",
+  "category": "1203 CRISP BREAD",
+  "size": "390G",
+  "alcohol_content": "",
+  "image": "../../assets/809747067020.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE is produced using traditional methods. Made in TURKEY, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The ETI brand was founded in TURKEY."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, ETI expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, ETI products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE — продукт бренда ETI, произведённый в TURKEY. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат 390G подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд ETI был основан в TURKEY."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд ETI расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция ETI известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE — продукт бренду ETI, виготовлений у TURKEY. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат 390G підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд ETI був заснований у TURKEY."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд ETI розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція ETI відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE ist ein Produkt der Marke ETI aus TURKEY. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format 390G eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke ETI wurde in TURKEY gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte ETI sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden ETI Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE es un producto de la marca ETI elaborado en TURKEY. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato 390G es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca ETI fue fundada en TURKEY."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, ETI amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos ETI se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE è un prodotto del marchio ETI realizzato in TURKEY. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato 390G è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio ETI è stato fondato in TURKEY."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, ETI ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti ETI sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE je proizvod brenda ETI proizveden u TURKEY. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format 390G prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka ETI osnovana je u TURKEY."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je ETI proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi ETI koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) CRISP BREAD ETI BISCOTTE TOAST SALT FREE a ETI márka terméke TURKEY területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) 390G kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A ETI márkát TURKEY területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a ETI kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a ETI termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "CRISP BREAD ETI BISCOTTE TOAST SALT FREE"
+}

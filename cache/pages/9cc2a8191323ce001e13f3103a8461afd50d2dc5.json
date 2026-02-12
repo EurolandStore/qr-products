@@ -1,0 +1,5 @@
+{
+  "url": "https://stackoverflow.com/questions/79031694/not-able-to-launch-jupyter-notebook-from-anaconda",
+  "title": "not able to launch jupyter notebook from anaconda - Stack Overflow",
+  "text": "When I launch Jupyter Notebook from Anaconda, a web page opens and gives me the below error message Your file couldn’t be accessed It may have been moved, edited, or deleted. ERR_FILE_NOT_FOUND I have just installed Anaconda and want to practice Python on Jupyter Notebook. I am connected to Anaconda cloud also. I have logged into Anaconda Navigator and clicked on Launch for Jupyter Notebook. The version Anaconda Navigator is 2.5.2 and that of Jupyter Notebook is 7.2.2. The error message is Your file couldn’t be accessed It may have been moved, edited, or deleted. ERR_FILE_NOT_FOUND The url that is displayed is \"file:///C:/Users/Admin/AppData/Roaming/jupyter/runtime/jpserver-17212-open.html\""
+}

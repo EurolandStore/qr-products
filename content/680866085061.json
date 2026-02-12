@@ -1,0 +1,287 @@
+{
+  "sku": "680866085061",
+  "brand": "ROZA'S",
+  "country_of_origin": "USA",
+  "category": "1604 PELMENI & DUMPLINGS",
+  "size": "1.75LB",
+  "alcohol_content": "",
+  "image": "../../assets/680866085061.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "PIEROGIES ROZA'S CHEESE 1.75LB",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "PIEROGIES ROZA'S CHEESE 1.75LB is produced using traditional methods. Made in USA, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The ROZA'S brand was founded in USA."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, ROZA'S expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, ROZA'S products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "PIEROGIES ROZA'S CHEESE 1.75LB",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "PIEROGIES ROZA'S CHEESE 1.75LB — продукт бренда ROZA'S, произведённый в USA. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат 1.75LB подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд ROZA'S был основан в USA."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд ROZA'S расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция ROZA'S известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "PIEROGIES ROZA'S CHEESE 1.75LB",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "PIEROGIES ROZA'S CHEESE 1.75LB — продукт бренду ROZA'S, виготовлений у USA. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат 1.75LB підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд ROZA'S був заснований у USA."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд ROZA'S розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція ROZA'S відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "PIEROGIES ROZA'S CHEESE 1.75LB",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "PIEROGIES ROZA'S CHEESE 1.75LB ist ein Produkt der Marke ROZA'S aus USA. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format 1.75LB eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke ROZA'S wurde in USA gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte ROZA'S sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden ROZA'S Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "PIEROGIES ROZA'S CHEESE 1.75LB",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "PIEROGIES ROZA'S CHEESE 1.75LB es un producto de la marca ROZA'S elaborado en USA. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato 1.75LB es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca ROZA'S fue fundada en USA."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, ROZA'S amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos ROZA'S se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "PIEROGIES ROZA'S CHEESE 1.75LB",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "PIEROGIES ROZA'S CHEESE 1.75LB è un prodotto del marchio ROZA'S realizzato in USA. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato 1.75LB è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio ROZA'S è stato fondato in USA."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, ROZA'S ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti ROZA'S sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "PIEROGIES ROZA'S CHEESE 1.75LB",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "PIEROGIES ROZA'S CHEESE 1.75LB je proizvod brenda ROZA'S proizveden u USA. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format 1.75LB prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka ROZA'S osnovana je u USA."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je ROZA'S proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi ROZA'S koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "PIEROGIES ROZA'S CHEESE 1.75LB",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) PIEROGIES ROZA'S CHEESE 1.75LB a ROZA'S márka terméke USA területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) 1.75LB kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A ROZA'S márkát USA területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a ROZA'S kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a ROZA'S termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "PIEROGIES ROZA'S CHEESE 1.75LB"
+}

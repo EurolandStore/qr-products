@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Facebook share link - can you customize the message body text?",
+    "url": "https://stackoverflow.com/questions/5023602/facebook-share-link-can-you-customize-the-message-body-text",
+    "snippet": "Feb 17, 2011 · Facebook will not allow developers pre-fill messages. Developers may customize the story by providing OG meta tags, but it's …"
+  },
+  {
+    "title": "Facebook share link without JavaScript - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/9120539/facebook-share-link-without-javascript",
+    "snippet": "Learn how to create a Facebook share link without using JavaScript, including tips and solutions for effective sharing."
+  },
+  {
+    "title": "How to resolve Facebook Login is currently unavailable for this app ...",
+    "url": "https://stackoverflow.com/questions/68567360/how-to-resolve-facebook-login-is-currently-unavailable-for-this-app-since-we-ar",
+    "snippet": "Jul 28, 2021 · In the facebook developers console for your app, go to App Review-> Permissions and Features. Set the public_profile and email …"
+  },
+  {
+    "title": "Android Facebook integration with invalid key hash",
+    "url": "https://stackoverflow.com/questions/23674131/android-facebook-integration-with-invalid-key-hash",
+    "snippet": "Feb 24, 2017 · The Facebook SDK for Unity gets the wrong key hash. It gets the key from \"C:\\Users\\\"your …"
+  },
+  {
+    "title": "How to extract the direct facebook video url - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/34978051/how-to-extract-the-direct-facebook-video-url",
+    "snippet": "I am trying to extract the url for facebook video file page from the facebook video link but I am not able to proceed how. For example: The …"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "url": "https://stackoverflow.com/questions/3209909/how-to-printf-unsigned-long-in-c",
+  "title": "How to printf \"unsigned long\" in C? - Stack Overflow",
+  "text": "I can never understand how to print unsigned long datatype in C. Suppose unsigned_foo is an unsigned long , then I try: printf(\"%lu\\n\", unsigned_foo) printf(\"%du\\n\", unsigned_foo) printf(\"%ud\\n\", unsigned_foo) printf(\"%ll\\n\", unsigned_foo) printf(\"%ld\\n\", unsigned_foo) printf(\"%dl\\n\", unsigned_foo) And all of them print some kind of -123123123 number instead of unsigned long that I have."
+}

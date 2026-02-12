@@ -1,0 +1,287 @@
+{
+  "sku": "7750481340166",
+  "brand": "TIYAPUY",
+  "country_of_origin": "PERU",
+  "category": "2206 CHIPS & SNACKS",
+  "size": "142G",
+  "alcohol_content": "",
+  "image": "../../assets/7750481340166.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "CHIPS TIYAPUY POTATO YELLOW",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "CHIPS TIYAPUY POTATO YELLOW is produced using traditional methods. Made in PERU, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The TIYAPUY brand was founded in PERU."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, TIYAPUY expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, TIYAPUY products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "CHIPS TIYAPUY POTATO YELLOW",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "CHIPS TIYAPUY POTATO YELLOW — продукт бренда TIYAPUY, произведённый в PERU. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат 142G подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд TIYAPUY был основан в PERU."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд TIYAPUY расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция TIYAPUY известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "CHIPS TIYAPUY POTATO YELLOW",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "CHIPS TIYAPUY POTATO YELLOW — продукт бренду TIYAPUY, виготовлений у PERU. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат 142G підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд TIYAPUY був заснований у PERU."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд TIYAPUY розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція TIYAPUY відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "CHIPS TIYAPUY POTATO YELLOW",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "CHIPS TIYAPUY POTATO YELLOW ist ein Produkt der Marke TIYAPUY aus PERU. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format 142G eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke TIYAPUY wurde in PERU gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte TIYAPUY sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden TIYAPUY Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "CHIPS TIYAPUY POTATO YELLOW",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "CHIPS TIYAPUY POTATO YELLOW es un producto de la marca TIYAPUY elaborado en PERU. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato 142G es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca TIYAPUY fue fundada en PERU."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, TIYAPUY amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos TIYAPUY se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "CHIPS TIYAPUY POTATO YELLOW",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "CHIPS TIYAPUY POTATO YELLOW è un prodotto del marchio TIYAPUY realizzato in PERU. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato 142G è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio TIYAPUY è stato fondato in PERU."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, TIYAPUY ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti TIYAPUY sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "CHIPS TIYAPUY POTATO YELLOW",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "CHIPS TIYAPUY POTATO YELLOW je proizvod brenda TIYAPUY proizveden u PERU. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format 142G prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka TIYAPUY osnovana je u PERU."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je TIYAPUY proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi TIYAPUY koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "CHIPS TIYAPUY POTATO YELLOW",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) CHIPS TIYAPUY POTATO YELLOW a TIYAPUY márka terméke PERU területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) 142G kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A TIYAPUY márkát PERU területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a TIYAPUY kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a TIYAPUY termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "CHIPS TIYAPUY POTATO YELLOW"
+}

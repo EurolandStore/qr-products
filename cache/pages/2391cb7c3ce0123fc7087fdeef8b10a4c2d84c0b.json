@@ -1,0 +1,5 @@
+{
+  "url": "https://stackoverflow.com/questions/23852073/whats-the-difference-between-ul-and-lu-c-format-specifiers",
+  "title": "What's the difference between %ul and %lu C format specifiers? - Stack Overflow",
+  "text": "In an example of \"C Primer Plus\", the author has used %ul format specifier (in both scanf and printf) for unsigned long. When I try to generalize the problem, it seems that the %ul makes something wrong in my computer. But using %lu solved the issue. Actually, rather than focusing on the problem and the line of codes, I want to know about the difference between %ul and %lu . Maybe I could figure out what's wrong. Searching doesn't give me something useful (except that \"they are different\"). Any explanation or link/reference is appreciated."
+}

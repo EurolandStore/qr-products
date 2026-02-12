@@ -1,0 +1,55 @@
+# =========================
+# Excel / temp sources
+# =========================
+*.xlsx
+*.xls
+*.csv
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Generated product pages
+# =========================
+
+# Ignore everything inside products
+products/*
+
+# But keep folders
+!products/
+!products/**/
+
+# And keep ALL html files
+!products/**/*.html
+
+# Keep folder structure placeholder
+!products/.gitkeep
+
+# =========================
+# Assets (images moved to R2 CDN)
+# =========================
+
+# Ignore all images
+assets/*.jpg
+assets/*.jpeg
+assets/*.png
+assets/*.webp
+
+# But keep CSS and logo
+!assets/style.css
+!assets/logo.png
+
+# =========================
+# Legacy aggregated data (DO NOT USE)
+# =========================
+products_enriched.json
+products_enriched.ndjson

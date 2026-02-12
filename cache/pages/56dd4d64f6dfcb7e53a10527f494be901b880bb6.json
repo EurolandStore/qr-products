@@ -1,0 +1,5 @@
+{
+  "url": "https://stackoverflow.com/questions/25977309/what-does-this-regexp-mean-plu",
+  "title": "c# - What does this regexp mean - \"\\p{Lu}\"? - Stack Overflow",
+  "text": "I stumble across this regular expression in c# I would like to port to javascript, and I do not understand the following: [-.\\p{Lu}\\p{Ll}0-9]+ The part I have a hard time with is of course \\p{Lu} . All regexp websites I visited never mention this modifier. Any idea?"
+}

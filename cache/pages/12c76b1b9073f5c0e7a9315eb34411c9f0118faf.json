@@ -1,0 +1,5 @@
+{
+  "url": "https://stats.stackexchange.com/questions/121675/how-do-search-engines-generate-related-searches",
+  "title": "machine learning - How do search engines generate related searches? - Cross Validated",
+  "text": "I would like to know how search engines like Bing generate related searches when the user starts typing into the search box. From what I gather, there has to be some sort of a ranking algorithm where the words which the user enters first get bagged, and then the closest related search pops up, from a history of past related searches. The ranking is probably influenced by user's previous search history. I heard that Bing's search engine is powered by RankNet algorithm, but I can't find a good tutorial on how this process works. I would like to find an article or a paper which I can implement myself in Python or Matlab."
+}

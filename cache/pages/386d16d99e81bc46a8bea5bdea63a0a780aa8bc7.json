@@ -1,0 +1,5 @@
+{
+  "url": "https://meteofrance.com/",
+  "title": "PREVISIONS METEO FRANCE - Site Officiel de Météo-France - Prévisions gratuites à 15 jours sur la France et sur le monde",
+  "text": "${department.name} (${department.cp}) VIGILANCE ${vigilance_text} EN COURS Consulter METEO France Tendance pour les jours suivants De la pluie aux inondations : un phénomène devenu extrême Comment des pluies très intenses, concentrées sur une courte durée, peuvent-elles provoquer des crues ou des inondations soudaines ? Météo-France décrypte ce phénomène aux conséquences parfois graves pour la sécurité des personnes et des biens."
+}

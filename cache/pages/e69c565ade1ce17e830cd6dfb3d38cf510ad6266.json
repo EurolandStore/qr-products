@@ -1,0 +1,5 @@
+{
+  "url": "https://stackoverflow.com/questions/13679310/validation-for-xxx-xxx-xxxx-or-xxxxxx-xxxx",
+  "title": "javascript - Validation for xxx-xxx-xxxx or (xxx)xxx-xxxx - Stack Overflow",
+  "text": "Possible Duplicate: A comprehensive regex for phone number validation Whats the regex for xxx-xxx-xxxx or (xxx)xxx-xxxx I can create regex for the first one with /^\\d{3}-\\d{3}-\\d{4}$/ but how to add rule in this so it can also handle the second one?"
+}

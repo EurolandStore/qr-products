@@ -1,0 +1,5 @@
+{
+  "url": "https://stackoverflow.com/questions/35183052/convert-card-numbers-to-xxxx-xxxx-xxxx-0000-format",
+  "title": "c# - Convert card numbers to XXXX-XXXX-XXXX-0000 Format - Stack Overflow",
+  "text": "I have a 16 character string that comes through something like this: 1234567891234567 I need to be able to format the string as it would appear in a system i.e XXXX-XXXX-XXXX-4567 NOTE that the 4567 digits shown above relate to the last four digits of the card number. This question helps format the string to something like 1234-5678-9123-4567 But it does not help with the format required above. While looking for answers I also came across the following solution: string[] subStrings = Enumerable.Range(0, 4).Select(n => cardNumber.Substring(n * 4, 4)).ToArray(); string result = String.Format(\"{0}-{1}-{2}-{3}\", subStrings); but again this will only output the string as something like 1234-5678-9123-4567 I seem to have reached part of the solution, but cant format the rest."
+}

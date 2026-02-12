@@ -1,0 +1,5 @@
+{
+  "url": "https://stackoverflow.com/questions/78169459/why-is-the-uuid-split-into-chunks-like-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "title": "Why is the UUID split into chunks like XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX? - Stack Overflow",
+  "text": "Most developers have seen UUIDs (Universally unique identifier), but what is the reason the UUID is split into chunks like XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX? The UUID is just a 128-bit number, and could be stored/displayed/saved in any way possible, but why is commonly represented by 8, 4, 4, 4, 12 hexadecimal characters separated by dashes? Is there some logical reason why this is the case?"
+}

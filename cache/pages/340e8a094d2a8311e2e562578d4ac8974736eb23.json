@@ -1,0 +1,5 @@
+{
+  "url": "https://stackoverflow.com/questions/34978051/how-to-extract-the-direct-facebook-video-url",
+  "title": "javascript - How to extract the direct facebook video url - Stack Overflow",
+  "text": "I am trying to extract the url for facebook video file page from the facebook video link but I am not able to proceed how. For example: The facebook video url I have is: https://www.facebook.com/nerdandco/videos/1662140250706521/ The facebook video file url I want to extract is: https://video-ord1-1.xx.fbcdn.net/hvideo-xpf1/v/t42.1790-2/12616394_491864644347782_1646982338_n.mp4?efg=eyJybHIiOjU2NywicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoidjNfNDI2X2NyZl8yM19tYWluXzMuMF9zZCJ9&rl=567&vabr=315&oh=333a80044ec836e9b2228afb58cba6c1&oe=56A51D9B How to get this url using php or javascript? Thanks in advance :)"
+}

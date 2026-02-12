@@ -1,0 +1,32 @@
+[
+  {
+    "title": "solution package - How to deploy wsp to single web application ...",
+    "url": "https://sharepoint.stackexchange.com/questions/83559/how-to-deploy-wsp-to-single-web-application",
+    "snippet": "How can I deploy the solution so my web part is only available in a certain web application. The idea is that I want to be using the same web parts in the different web applications, but they have minor changes for each different web application."
+  },
+  {
+    "title": "Deployed web parts don't show up in Web Part Gallery",
+    "url": "https://sharepoint.stackexchange.com/questions/79186/deployed-web-parts-dont-show-up-in-web-part-gallery",
+    "snippet": "Every guide I've found uses the same commands that I am using which seems like it works but my web parts never show up in the web part gallery. They do show up in the web part gallery through the Visual Studio deploy method so Visual Studio must be doing something else to provision them there."
+  },
+  {
+    "title": "How do I update an already existing wsp on farm? [duplicate]",
+    "url": "https://sharepoint.stackexchange.com/questions/45675/how-do-i-update-an-already-existing-wsp-on-farm",
+    "snippet": "Possible Duplicate: Update-SPSolution does not Deploy Solution I have a wsp that is already deployed on the farm. I made some code changes. I cannot use the Add-SPSolution command because I rec..."
+  },
+  {
+    "title": "web part - How do I Modify Contents of a WSP File? - SharePoint Stack ...",
+    "url": "https://sharepoint.stackexchange.com/questions/33363/how-do-i-modify-contents-of-a-wsp-file",
+    "snippet": "As far as I know, you can only open the wsp file as a cab and modify the files from there. The downside is that all the code will be compiled into assemblies and there will be no way to extract the code from them. You could create a new Visual Studio web part project and add the assemblies from the wsp file and see if there are any open facing classes or members that can be accessed and go ..."
+  },
+  {
+    "title": "2010 - Explain it to me: SharePoint deployment scope, solution and ...",
+    "url": "https://sharepoint.stackexchange.com/questions/27436/explain-it-to-me-sharepoint-deployment-scope-solution-and-features",
+    "snippet": "Thanks for your detail reply . I’m having a issue with Web application scope solution that not appearing in Timer Job definitions under CA , Operations Tab. Deployed the solution with out and issue //Deployed Solution with PowerShell 01 Uninstall-SPSolution -Identity Solution.wsp -WebApplication \"webapplication\" 02 Remove-SPSolution -Identity Solution.wsp –force 03 net stop sptimerv4 04 ..."
+  },
+  {
+    "title": "Download the YouTube mobile app",
+    "url": "https://support.google.com/youtube/answer/3227660?hl=en&co=GENIE.Platform=Android",
+    "snippet": "Download the YouTube app for a richer viewing experience on your smartphone."
+  }
+]

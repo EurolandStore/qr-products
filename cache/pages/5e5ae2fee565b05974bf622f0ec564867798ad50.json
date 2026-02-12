@@ -1,0 +1,5 @@
+{
+  "url": "https://www.reddit.com/r/BitDefender/comments/1bm57zl/trojan_in_windowsinstaller_folder/",
+  "title": "Reddit - The heart of the internet",
+  "text": "Trojan in Windows\\Installer folder? I posted this already in r/antivirus but I just want a second set of opinions. I ran a full system scan with Bitdefender a few minutes ago and I noticed it found an infected item in my Windows\\Installer folder. The item path according to Bitdefender was: \"C:\\Windows\\Installer\\67f00e.msi=>(Embedded EXE)\" The threat type was \"Trojan.GenericKD.72086472\" And the action it took to resolve this threat was \"Cleaned\". Bitdefender didn't seem to detect anything else. I also ran Hitman Pro afterwards and it came back fine with no detections. Does anyone know if I should I worry or if this is a false positive? What are the next steps I should take?"
+}

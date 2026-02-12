@@ -1,0 +1,27 @@
+[
+  {
+    "title": "What's the difference between %ul and %lu C format specifiers?",
+    "url": "https://stackoverflow.com/questions/23852073/whats-the-difference-between-ul-and-lu-c-format-specifiers",
+    "snippet": "May 25, 2014 · But using %lu solved the issue. Actually, rather than focusing on the problem and the line of codes, I want to know about the …"
+  },
+  {
+    "title": "How to printf \"unsigned long\" in C? - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/3209909/how-to-printf-unsigned-long-in-c",
+    "snippet": "Jul 9, 2010 · @Anisha Kaul: %lu is a valid conversion specification, %ul is not. %lu, broken out is: % — starts a \"conversion specification\"; …"
+  },
+  {
+    "title": "printf - Difference between %zu and %lu in C - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/73167243/difference-between-zu-and-lu-in-c",
+    "snippet": "Jul 29, 2022 · 11 What is the difference between %zu and %lu in string formatting in C? %lu is used for unsigned long values and %zu is used for …"
+  },
+  {
+    "title": "c++ - Meaning of \"lu\" in variable definition - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/20635882/meaning-of-lu-in-variable-definition",
+    "snippet": "Dec 17, 2013 · Meaning of \"lu\" in variable definition Asked 12 years, 1 month ago Modified 12 years, 1 month ago Viewed 8k times"
+  },
+  {
+    "title": "c# - What does this regexp mean - \"\\p {Lu}\"? - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/25977309/what-does-this-regexp-mean-plu",
+    "snippet": "Nov 14, 2015 · What does this regexp mean - \"\\p {Lu}\"? Asked 11 years, 4 months ago Modified 10 years, 2 months ago Viewed 27k times"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "url": "https://superuser.com/questions/681744/how-to-generically-refer-to-the-appdata-folder-on-the-windows-command-line",
+  "title": "How to generically refer to the AppData folder on the Windows command line? - Super User",
+  "text": "The original User's Profile directory lives in a directory like C:\\Users\\username\\AppData . How can I refer to the current user's profile directory when using the Windows command line? By searching I found out about %UserProfile% that perhaps refer to the current username, but it does not really work. When I tried using it, I received the error \"The filename, directory name, or volume label syntax is incorrect\"."
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Sign up for GitHub",
+    "url": "https://github.com/signup",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "Creating an account on GitHub",
+    "url": "https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github",
+    "snippet": "Create a personal account to get started with GitHub. About your personal account on GitHub To get started with GitHub, you'll need to …"
+  },
+  {
+    "title": "How to Create an Account on GitHub: Easy Sign-Up Guide - wikiHow",
+    "url": "https://www.wikihow.com/Create-an-Account-on-GitHub",
+    "snippet": "Dec 2, 2025 · Create a GitHub account for free with these quick & simple stepsDo you need to make a GitHub account? GitHub is an online …"
+  },
+  {
+    "title": "Git - Account Setup and Configuration",
+    "url": "https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration",
+    "snippet": "This chapter is about using GitHub effectively. We’ll cover signing up for and managing an account, creating and using Git repositories, …"
+  },
+  {
+    "title": "How to Set Up a Github Account - Codecademy",
+    "url": "https://www.codecademy.com/article/how-to-set-up-a-github-account",
+    "snippet": "Because of the way Git works, it’s important to note that your email can be exposed publicly when you make a pull request or merge in …"
+  },
+  {
+    "title": "Fix low disk space errors quickly in Windows - Microsoft Support",
+    "url": "https://support.microsoft.com/en-us/topic/fix-low-disk-space-errors-quickly-in-windows-82b699fa-78e5-4e9b-a1b6-6561e706d8ff",
+    "snippet": "Turn on Storage Sense to automatically free up space by removing unnecessary files. Use Cleanup recommendations to identify and …"
+  }
+]

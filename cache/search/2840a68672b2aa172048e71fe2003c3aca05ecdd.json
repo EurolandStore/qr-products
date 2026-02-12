@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Google",
+    "url": "https://www.google.com.br/index.html",
+    "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly …"
+  },
+  {
+    "title": "Imagens do Google",
+    "url": "https://images.google.com.br/images?hl=pt-BR&source=hp&btnG=P<br+/>",
+    "snippet": "Imagens do Google. A pesquisa de imagens mais completa da web."
+  },
+  {
+    "title": "Google Videos",
+    "url": "https://www.google.com.br/videohp",
+    "snippet": "Search millions of videos from across the web."
+  },
+  {
+    "title": "Google Chrome – Download the fast, secure browser from Google",
+    "url": "https://www.google.com.br/intl/en_uk/chrome/",
+    "snippet": "Get things done in Gmail, Google Docs, Google Slides, Google Sheets, Google Translate and Google Drive, even without an Internet …"
+  },
+  {
+    "title": "Google Images",
+    "url": "https://images.google.com.br/",
+    "snippet": "Google Images. The most comprehensive image search on the web."
+  },
+  {
+    "title": "Sora",
+    "url": "https://soraapp.com/welcome",
+    "snippet": "Access Sora, the reading app for K‑12 schools. Find your school, sign in, and start reading."
+  }
+]

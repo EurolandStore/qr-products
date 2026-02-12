@@ -1,0 +1,5 @@
+{
+  "url": "https://www.reddit.com/r/microsoft_365_copilot/",
+  "title": "Reddit - The heart of the internet",
+  "text": "Hello, I am using Agent builder to create a tool that will extract numbers from a PDF drawing and export them into excel. These are engineering type drawings that were created in CAD and exported to PDF. It is usually a manual process of creating the list. It works great if I upload a single PDF file. If I upload multiple pages, I get repeated requests to re-upload the documents or statements that the files are not in the work space. This also happens if multiple pages are in a single file. Should I be handling multiple files differently? Any ideas on how to figure out the underlying issue? Ive tried uploading by dragging and dropping, linking, and clicking the +. Ive tried various file sets from different sources."
+}

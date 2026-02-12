@@ -1,0 +1,27 @@
+[
+  {
+    "title": "postgraduate 和 master 的区别是什么？ - 知乎",
+    "url": "https://www.zhihu.com/question/20173686",
+    "snippet": "有一点需要注意，如果申请的是master degree，论文没通过或者挂科，学校只给了diploma没有给学历学位，那么回国认证将会是研究生文凭，而不是硕士学位 …"
+  },
+  {
+    "title": "研究生，硕士，博士，phd等这些学历分别是什么？ - 知乎",
+    "url": "https://www.zhihu.com/question/318991533",
+    "snippet": "这么多人几乎没有讲明白的。 研究生分为博士研究生和硕士研究生，但是 学历 都是 研究生学历，这是我国认可的最高学历。 也就是说不管你是博士还是硕士，你 …"
+  },
+  {
+    "title": "罗技MX Master 4评测：999元的办公鼠标,凭什么让老用户再掏钱?",
+    "url": "https://www.zhihu.com/tardis/zm/art/1968798290389743561",
+    "snippet": "Nov 4, 2025 · 罗技MX Master 4首次采用了触觉反馈功能，让鼠标操作不仅仅是视觉确认也可以通过触觉来确认，目前使用下来每次通过鼠标唤醒电脑、Easy …"
+  },
+  {
+    "title": "graduate diploma 和 master 的区别是什么？ - 知乎",
+    "url": "https://www.zhihu.com/question/412649564",
+    "snippet": "（2）Master Degree是一个介于学士及博士之间的研究生学，位通常是由大学或学院颁发。 二、区别二学制的不同 graduate diploma只有一年；而Master …"
+  },
+  {
+    "title": "如何理解git分支，master，别人提交的代码和自己分支上的代码怎么合并，还是就是替换…",
+    "url": "https://www.zhihu.com/question/48477521",
+    "snippet": "1. 同一行被两者进行了不同的修改（master把x=1改成了x=2,但是你改成了x=3） 2. 两者在同一行下面插入了不同的代码（git不知道哪个应该在前） 3. 同一行被 …"
+  }
+]

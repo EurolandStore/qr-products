@@ -1,0 +1,287 @@
+{
+  "sku": "5310002585081",
+  "brand": "EVROPA",
+  "country_of_origin": "MACEDONIA",
+  "category": "1707 MARMELADE",
+  "size": "400G",
+  "alcohol_content": "",
+  "image": "../../assets/5310002585081.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "MARMELADE EVROPA LUKUM PLAIN",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "MARMELADE EVROPA LUKUM PLAIN is produced using traditional methods. Made in MACEDONIA, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The EVROPA brand was founded in MACEDONIA."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, EVROPA expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, EVROPA products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "MARMELADE EVROPA LUKUM PLAIN",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "MARMELADE EVROPA LUKUM PLAIN — продукт бренда EVROPA, произведённый в MACEDONIA. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат 400G подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд EVROPA был основан в MACEDONIA."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд EVROPA расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция EVROPA известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "MARMELADE EVROPA LUKUM PLAIN",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "MARMELADE EVROPA LUKUM PLAIN — продукт бренду EVROPA, виготовлений у MACEDONIA. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат 400G підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд EVROPA був заснований у MACEDONIA."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд EVROPA розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція EVROPA відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "MARMELADE EVROPA LUKUM PLAIN",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "MARMELADE EVROPA LUKUM PLAIN ist ein Produkt der Marke EVROPA aus MACEDONIA. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format 400G eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke EVROPA wurde in MACEDONIA gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte EVROPA sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden EVROPA Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "MARMELADE EVROPA LUKUM PLAIN",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "MARMELADE EVROPA LUKUM PLAIN es un producto de la marca EVROPA elaborado en MACEDONIA. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato 400G es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca EVROPA fue fundada en MACEDONIA."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, EVROPA amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos EVROPA se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "MARMELADE EVROPA LUKUM PLAIN",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "MARMELADE EVROPA LUKUM PLAIN è un prodotto del marchio EVROPA realizzato in MACEDONIA. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato 400G è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio EVROPA è stato fondato in MACEDONIA."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, EVROPA ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti EVROPA sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "MARMELADE EVROPA LUKUM PLAIN",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "MARMELADE EVROPA LUKUM PLAIN je proizvod brenda EVROPA proizveden u MACEDONIA. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format 400G prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka EVROPA osnovana je u MACEDONIA."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je EVROPA proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi EVROPA koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "MARMELADE EVROPA LUKUM PLAIN",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) MARMELADE EVROPA LUKUM PLAIN a EVROPA márka terméke MACEDONIA területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) 400G kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A EVROPA márkát MACEDONIA területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a EVROPA kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a EVROPA termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "MARMELADE EVROPA LUKUM PLAIN"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Microsoft Copilot: Your AI companion",
+    "url": "https://copilot.microsoft.com/",
+    "snippet": "Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now."
+  },
+  {
+    "title": "Copilot Labs: Discover experimental AI initiatives",
+    "url": "https://copilot.microsoft.com/labs",
+    "snippet": "Explore Copilot Labs – Microsoft's hub for experimental AI. Try bold AI experiments, co-create with the community, and help shape the …"
+  },
+  {
+    "title": "Copilot Search",
+    "url": "https://s.copilot.microsoft.com/copilotsearch",
+    "snippet": "Copilot Search delivers AI-powered insights, helping you explore topics, uncover relevant instant answers, and connect ideas seamlessly."
+  },
+  {
+    "title": "[Copilot Actions] - A Copilot Labs experiment",
+    "url": "https://copilot.microsoft.com/labs/experiments/copilot-actions",
+    "snippet": "Copilot Actions helps you get things done by taking on tasks you'd rather skip."
+  },
+  {
+    "title": "[Copilot 3D] - A Copilot Labs experiment",
+    "url": "https://copilot.microsoft.com/labs/experiments/copilot-3d",
+    "snippet": "Turn images into 3D models with one click."
+  },
+  {
+    "title": "YouTube",
+    "url": "https://www.youtube.com/",
+    "snippet": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+  }
+]

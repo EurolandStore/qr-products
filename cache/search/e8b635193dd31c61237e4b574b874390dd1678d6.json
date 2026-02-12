@@ -1,0 +1,27 @@
+[
+  {
+    "title": "strategos - µTorrent Community Forums",
+    "url": "https://forum.utorrent.com/profile/107495-strategos/",
+    "snippet": "Posts 3 Joined July 31, 2010 Last visited July 31, 2010"
+  },
+  {
+    "title": "uTorrent Is Being Detected As A Virus - µTorrent Community Forums",
+    "url": "https://forum.utorrent.com/topic/106882-utorrent-is-being-detected-as-a-virus/",
+    "snippet": "Nov 3, 2017 · Hi, so a few days ago, Windows Defender says that uTorrent was a virus on the computer. So I try to download it again from the website, and that installation is also detected as a virus. Why is this happening? And how do I fix it?"
+  },
+  {
+    "title": "Download stuck on \"Connecting to Peers 0.0%\" - Troubleshooting ...",
+    "url": "https://forum.utorrent.com/topic/91040-download-stuck-on-connecting-to-peers-00/",
+    "snippet": "Apr 15, 2014 · Hey there Utorrent community. I have been trying to download South Park The Stick of Truth over the past two days, but unfortunately it is not working. I have checked online for solutions but to no avail.My tracker status reads:[DHT] - working[Local Peer Discovery] - working[Peer Exchange] - work..."
+  },
+  {
+    "title": "Torrent uploading and downloading stops whenever screensaver kicks in ...",
+    "url": "https://forum.utorrent.com/topic/4031-torrent-uploading-and-downloading-stops-whenever-screensaver-kicks-in/",
+    "snippet": "Jan 10, 2006 · I've searched the forums and can't find any threads on this particular problem:uTorrent is running fine, but whenever my screensaver starts up, all seeding and downloading drops to 0 kB/s. It takes a few seconds, so if I immediately bump the mouse to wake it back up, I can see how the speed was d..."
+  },
+  {
+    "title": "Torrent Prioritisation - Web API - µTorrent Community Forums",
+    "url": "https://forum.utorrent.com/topic/39785-torrent-prioritisation/",
+    "snippet": "Sep 23, 2008 · Hi there,Firstly wanted to thank all those involved in uTorrent and webui, definitely the best thing to happen to Bittorrent.I have a feature request for webui, would it be possible to include the ability to change a torrent's download priority? So say my RSS download starts at top of queue, and ..."
+  }
+]

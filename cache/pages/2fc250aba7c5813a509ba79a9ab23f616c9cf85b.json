@@ -1,0 +1,5 @@
+{
+  "url": "https://no-cache.net/",
+  "title": "Cache directive \"no-cache\" | An explaination of the HTTP Cache-Control header",
+  "text": "The Cache-Control header is used to specify directives for caching mechanisms in both HTTP requests and responses. A typical header looks like this Cache-Control: public, max-age=10 - public - Indicates that the response may be cached by any cache. - private - Indicates that the response is intended for a single user and must not be stored by a shared cache. A private cache may store the response. - no-cache - Forces caches to submit the request to the origin server for validation before releasing a cached copy. https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control"
+}

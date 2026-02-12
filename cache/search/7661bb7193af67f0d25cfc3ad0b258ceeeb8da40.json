@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Gestión Documental Electrónica",
+    "url": "https://cas.gde.gob.ar/acceso/login/",
+    "snippet": "Gestión Documental Electrónica Ingrese al Sistema con Usuario/Cuil/Cuit y contraseña"
+  },
+  {
+    "title": "Gestión Documental Electrónica",
+    "url": "http://cas.gde.gob.ar/cas/login",
+    "snippet": "Login page for Gestión Documental Electrónica system, facilitating electronic document management and administrative processes."
+  },
+  {
+    "title": "Gestión Documental Electrónica",
+    "url": "https://cas.gde.gob.ar/acceso/update/update.zul?accion=provisoria",
+    "snippet": "Sorry, JavaScript must be enabled. Change your browser options, then try again."
+  },
+  {
+    "title": "Gestión Documental Electrónica",
+    "url": "https://cas.gde.gob.ar/acceso/zkau/web/4ce7d1e/zul/css/zk.wcs",
+    "snippet": "article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}audio:not ..."
+  },
+  {
+    "title": "cas.gde.gob.ar",
+    "url": "https://cas.gde.gob.ar/acceso/zkau/web/_zv2016110115/js/zhtml.wpd",
+    "snippet": "(function(){if(zk._p=zkpi('zhtml'))try{ zhtml.Widget=zk.$extends(zk.Widget,{rawId:true,className:\"zhtml.Widget\",widgetName:\"zhtml\",setDynamicProperty:function(d){var ..."
+  },
+  {
+    "title": "What do we call the “rd” in “3ʳᵈ” and the “th” in “9ᵗʰ”?",
+    "url": "https://english.stackexchange.com/questions/192804/what-do-we-call-the-rd-in-3ʳᵈ-and-the-th-in-9ᵗʰ",
+    "snippet": "Aug 23, 2014 · Our numbers have a specific two-letter combination that tells us how the number sounds. For example 9th 3rd 301st What do we …"
+  }
+]

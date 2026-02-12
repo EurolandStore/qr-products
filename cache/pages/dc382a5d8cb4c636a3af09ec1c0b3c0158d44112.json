@@ -1,0 +1,5 @@
+{
+  "url": "https://cas.gde.gob.ar/acceso/update/update.zul?accion=provisoria",
+  "title": "Gestión Documental Electrónica",
+  "text": "Debe tener entre 6 y 20 caracteres alfanuméricos.No debe contener el nombre de usuario GDE.No debe coincidir con ninguna de las últimas 4 contraseñas.Debe contener como mínimo un caracter en mayúscula, uno en minúscula y un numérico.No debe contener 4 caracteres iguales consecutivos (Por ejemplo: aaaa, AAAA, AaaA o 4444).No debe contener 4 caracteres consecutivos ascendentes o descendentes (Por ejemplo: abcd, DCBA, ABcd, o 3456).Ejemplos válidos: Ministerio8321, 511Diagonal."
+}

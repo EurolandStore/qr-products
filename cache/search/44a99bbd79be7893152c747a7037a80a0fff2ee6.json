@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CSS Grid Layout Guide",
+    "url": "https://css-tricks.com/css-grid-layout-guide/",
+    "snippet": "May 12, 2021 · Our comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements."
+  },
+  {
+    "title": "Getting Started with CSS Grid",
+    "url": "https://css-tricks.com/getting-started-css-grid/",
+    "snippet": "Mar 13, 2017 · But we’ve never been able to create relationships between rows like this before; that’s what makes CSS Grid so powerful. With this tiny bit of knowledge and a handful of new properties, we can create fabulously complex layouts – asymmetric and responsive grids being just one small part of them."
+  },
+  {
+    "title": "CSS-Tricks - A Website About Making Websites",
+    "url": "https://css-tricks.com/",
+    "snippet": "ReliCSS Stu Robson’s ReliCSS (clever name!) tool can excavate outdated CSS in your codebase that have modern CSS solutions."
+  },
+  {
+    "title": "CSS Flexbox Layout Guide",
+    "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "snippet": "Apr 8, 2013 · Our comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items)."
+  },
+  {
+    "title": "CSS Grid Starter Layouts",
+    "url": "https://css-tricks.com/snippets/css/css-grid-starter-layouts/",
+    "snippet": "Nov 24, 2017 · This is a collection of starter templates for layouts and patterns using CSS Grid. The idea here is to show off what the technique is capable of doing and provide a starting point that can be re-purposed for other projects."
+  },
+  {
+    "title": "Hamilton Hill and Vale, Schenectady, New York Weather",
+    "url": "https://weather.com/weather/today/l/Schenectady+NY?canonicalCityId=5c380dd95ed092d66003259b4812ef4f",
+    "snippet": "Today’s and tonight’s Hamilton Hill and Vale, Schenectady, New York weather forecast, weather conditions and Doppler radar from The Weather Channel and weather.com"
+  }
+]

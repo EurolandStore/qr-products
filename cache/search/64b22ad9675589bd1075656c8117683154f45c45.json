@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Anomalous Login Report on Azure AD - social.msdn.microsoft.com",
+    "url": "https://www.social.msdn.microsoft.com/Forums/en-US/0ddbed5f-eae7-437f-b159-36486e18dd0d/anomalous-login-report-on-azure-ad?forum=WindowsAzureAD",
+    "snippet": "Dec 14, 2015 · Azure Active Directory \"Security and Health Report\" showed me some anomalous User Logins. While checking the AAD Reports I saw all anomalous User login attempts are due to multiple geographic \"issues\". There are user login attempts registered from Redmond ."
+  },
+  {
+    "title": "Unable to Clone a Logic-App - social.msdn.microsoft.com",
+    "url": "https://www.social.msdn.microsoft.com/Forums/azure/en-US/2714dc9d-d976-46f8-a41e-231e075d33d1/unable-to-clone-a-logicapp?forum=azurelogicapps",
+    "snippet": "Mar 14, 2017 · I've just tested and could clone a logic app with no problems. My logic app is in Australia Southeast. It might be an issue with the datacenter, or that you got it during deployment? I would suggest that if you still have problems send details to logicappsbug [at]microsoft [dot]com."
+  },
+  {
+    "title": "MSDN",
+    "url": "https://social.msdn.microsoft.com/Forums/en-US/aad5effb-d183-4c9f-81c6-fb143a92142a",
+    "snippet": "MSDN"
+  },
+  {
+    "title": "Sostituire punto con virgola,all interno di un datagridview",
+    "url": "https://social.msdn.microsoft.com/Forums/it-IT/c2d7a6f1-f6f3-4353-a2f8-da29219d67c5/sostituire-punto-con-virgolaall-interno-di-un-datagridview?forum=visualbasicit",
+    "snippet": "Salve a tutti,avendo un campo prezzo all interno di una tabella generica, in automatico il mio datagridview accetta come input decimale il carattere \",\" come è giusto che sia."
+  },
+  {
+    "title": "com.microsoft.sqlserver.jdbc.SQLServerException: Transaction (Process ...",
+    "url": "https://social.msdn.microsoft.com/Forums/ie/en-US/8524988d-39dd-4009-aa63-a41c24f23d70/commicrosoftsqlserverjdbcsqlserverexception-transaction-process-id-422-was-deadlocked-on-lock?forum=sqldatabaseengine",
+    "snippet": "Transaction (Process ID 422) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction. com.microsoft.sqlserver.jdbc.SQLServerException: Transaction (Process ID 422) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction. at com.microsoft.sqlserver.jdbc ..."
+  },
+  {
+    "title": "I’ve been collecting the Bing Word of the Day for an entire ... - Reddit",
+    "url": "https://www.reddit.com/r/bing/comments/13u9qac/ive_been_collecting_the_bing_word_of_the_day_for/",
+    "snippet": "May 28, 2023 · On the day that I posted this, 5-28-2023, it would have been an entire year since I started collecting the daily word that Bing offers every day. For those of you don’t know, if you search for “Word of the day” on Bing, you will find a unique vocabulary word that is specific to each day. That’s what I’ve been documenting for the past ..."
+  }
+]

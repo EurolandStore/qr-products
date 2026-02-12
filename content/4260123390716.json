@@ -1,0 +1,287 @@
+{
+  "sku": "4260123390716",
+  "brand": "TRADITSII VKUSA",
+  "country_of_origin": "MOLDOVA",
+  "category": "1904 PICKLED CUCUMBERS",
+  "size": "3L",
+  "alcohol_content": "",
+  "image": "../../assets/4260123390716.jpg",
+  "tags": [
+    "nan"
+  ],
+  "i18n": {
+    "en": {
+      "title": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY",
+      "meta": {
+        "brand": "Brand",
+        "country_of_origin": "Country of origin",
+        "category": "Category",
+        "size": "Size",
+        "alcohol_content": "Alcohol content",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Description",
+        "ingredients_title": "Ingredients",
+        "precautions_title": "Consumption precautions",
+        "history_title": "History"
+      },
+      "description": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY is produced using traditional methods. Made in MOLDOVA, it reflects the heritage and expertise of the brand.",
+      "ingredients": "Ingredients may vary depending on the product. Please refer to the packaging for details.",
+      "precautions": "Store according to package instructions. Check the label for allergen information.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "The TRADITSII VKUSA brand was founded in MOLDOVA."
+        },
+        {
+          "year": "Development",
+          "text": "Over time, TRADITSII VKUSA expanded its range."
+        },
+        {
+          "year": "Today",
+          "text": "Today, TRADITSII VKUSA products are enjoyed worldwide."
+        }
+      ]
+    },
+    "ru": {
+      "title": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Страна происхождения",
+        "category": "Категория",
+        "size": "Размер",
+        "alcohol_content": "Содержание алкоголя",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Описание",
+        "ingredients_title": "Ингредиенты",
+        "precautions_title": "Предостережения",
+        "history_title": "История"
+      },
+      "description": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY — продукт бренда TRADITSII VKUSA, произведённый в MOLDOVA. Изготовлен традиционными методами и отличается стабильным качеством. Удобный формат 3L подходит как для повседневного использования, так и для особых случаев.",
+      "ingredients": "Состав может отличаться в зависимости от продукта. См. упаковку.",
+      "precautions": "Хранить согласно указаниям на упаковке. Проверьте аллергенную информацию.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд TRADITSII VKUSA был основан в MOLDOVA."
+        },
+        {
+          "year": "Development",
+          "text": "Со временем бренд TRADITSII VKUSA расширил ассортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сегодня продукция TRADITSII VKUSA известна и любима во многих странах."
+        }
+      ]
+    },
+    "ua": {
+      "title": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY",
+      "meta": {
+        "brand": "Бренд",
+        "country_of_origin": "Країна походження",
+        "category": "Категорія",
+        "size": "Розмір",
+        "alcohol_content": "Вміст алкоголю",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Опис",
+        "ingredients_title": "Інгредієнти",
+        "precautions_title": "Застереження",
+        "history_title": "Історія"
+      },
+      "description": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY — продукт бренду TRADITSII VKUSA, виготовлений у MOLDOVA. Створений традиційними методами та вирізняється стабільною якістю. Зручний формат 3L підходить і для щоденного використання, і для особливих моментів.",
+      "ingredients": "Склад може відрізнятися залежно від продукту. Див. упаковку.",
+      "precautions": "Зберігати згідно з інструкціями на упаковці. Перевірте алергени.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Бренд TRADITSII VKUSA був заснований у MOLDOVA."
+        },
+        {
+          "year": "Development",
+          "text": "З часом бренд TRADITSII VKUSA розширив асортимент."
+        },
+        {
+          "year": "Today",
+          "text": "Сьогодні продукція TRADITSII VKUSA відома у багатьох країнах."
+        }
+      ]
+    },
+    "de": {
+      "title": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY",
+      "meta": {
+        "brand": "Marke",
+        "country_of_origin": "Herkunftsland",
+        "category": "Kategorie",
+        "size": "Größe",
+        "alcohol_content": "Alkoholgehalt",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Beschreibung",
+        "ingredients_title": "Zutaten",
+        "precautions_title": "Hinweise",
+        "history_title": "Geschichte"
+      },
+      "description": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY ist ein Produkt der Marke TRADITSII VKUSA aus MOLDOVA. Nach traditionellen Methoden hergestellt und für gleichbleibende Qualität bekannt. Das Format 3L eignet sich sowohl für den Alltag als auch für besondere Anlässe.",
+      "ingredients": "Die Zutaten können je nach Produkt variieren. Siehe Verpackung.",
+      "precautions": "Gemäß den Anweisungen auf der Verpackung lagern. Allergenhinweise prüfen.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Die Marke TRADITSII VKUSA wurde in MOLDOVA gegründet."
+        },
+        {
+          "year": "Development",
+          "text": "Im Laufe der Zeit erweiterte TRADITSII VKUSA sein Sortiment."
+        },
+        {
+          "year": "Today",
+          "text": "Heute werden TRADITSII VKUSA Produkte weltweit geschätzt."
+        }
+      ]
+    },
+    "es": {
+      "title": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "País de origen",
+        "category": "Categoría",
+        "size": "Tamaño",
+        "alcohol_content": "Graduación alcohólica",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descripción",
+        "ingredients_title": "Ingredientes",
+        "precautions_title": "Advertencias",
+        "history_title": "Historia"
+      },
+      "description": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY es un producto de la marca TRADITSII VKUSA elaborado en MOLDOVA. Se produce con métodos tradicionales y destaca por su calidad constante. Su formato 3L es ideal para el día a día y ocasiones especiales.",
+      "ingredients": "Los ingredientes pueden variar según el producto. Consulte el envase.",
+      "precautions": "Conservar según las instrucciones del envase. Verifique alérgenos.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "La marca TRADITSII VKUSA fue fundada en MOLDOVA."
+        },
+        {
+          "year": "Development",
+          "text": "Con el tiempo, TRADITSII VKUSA amplió su gama de productos."
+        },
+        {
+          "year": "Today",
+          "text": "Hoy, los productos TRADITSII VKUSA se disfrutan en todo el mundo."
+        }
+      ]
+    },
+    "it": {
+      "title": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY",
+      "meta": {
+        "brand": "Marca",
+        "country_of_origin": "Paese d'origine",
+        "category": "Categoria",
+        "size": "Formato",
+        "alcohol_content": "Contenuto alcolico",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Descrizione",
+        "ingredients_title": "Ingredienti",
+        "precautions_title": "Avvertenze",
+        "history_title": "Storia"
+      },
+      "description": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY è un prodotto del marchio TRADITSII VKUSA realizzato in MOLDOVA. Prodotto con metodi tradizionali e noto per la qualità costante. Il formato 3L è perfetto sia per l’uso quotidiano sia per le occasioni speciali.",
+      "ingredients": "Gli ingredienti possono variare a seconda del prodotto. Vedi confezione.",
+      "precautions": "Conservare secondo le istruzioni sulla confezione. Verificare allergeni.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Il marchio TRADITSII VKUSA è stato fondato in MOLDOVA."
+        },
+        {
+          "year": "Development",
+          "text": "Nel tempo, TRADITSII VKUSA ha ampliato la sua gamma."
+        },
+        {
+          "year": "Today",
+          "text": "Oggi i prodotti TRADITSII VKUSA sono apprezzati in tutto il mondo."
+        }
+      ]
+    },
+    "hr": {
+      "title": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY",
+      "meta": {
+        "brand": "Brend",
+        "country_of_origin": "Zemlja podrijetla",
+        "category": "Kategorija",
+        "size": "Veličina",
+        "alcohol_content": "Sadržaj alkohola",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Opis",
+        "ingredients_title": "Sastojci",
+        "precautions_title": "Upozorenja",
+        "history_title": "Povijest"
+      },
+      "description": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY je proizvod brenda TRADITSII VKUSA proizveden u MOLDOVA. Izrađen tradicionalnim metodama i poznat po ujednačenoj kvaliteti. Format 3L prikladan je za svakodnevnu upotrebu i posebne prilike.",
+      "ingredients": "Sastojci se mogu razlikovati ovisno o proizvodu. Pogledajte pakiranje.",
+      "precautions": "Čuvati prema uputama na pakiranju. Provjeriti alergene.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "Marka TRADITSII VKUSA osnovana je u MOLDOVA."
+        },
+        {
+          "year": "Development",
+          "text": "S vremenom je TRADITSII VKUSA proširio svoj asortiman."
+        },
+        {
+          "year": "Today",
+          "text": "Danas se proizvodi TRADITSII VKUSA koriste diljem svijeta."
+        }
+      ]
+    },
+    "hu": {
+      "title": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY",
+      "meta": {
+        "brand": "Márka",
+        "country_of_origin": "Származási ország",
+        "category": "Kategória",
+        "size": "Méret",
+        "alcohol_content": "Alkoholtartalom",
+        "sku": "SKU"
+      },
+      "sections": {
+        "description_title": "Leírás",
+        "ingredients_title": "Összetevők",
+        "precautions_title": "Figyelmeztetések",
+        "history_title": "Történet"
+      },
+      "description": "A(z) PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY a TRADITSII VKUSA márka terméke MOLDOVA területéről. Hagyományos eljárással készül, megbízható minőséggel. A(z) 3L kiszerelés a mindennapokra és különleges alkalmakra is ideális.",
+      "ingredients": "Az összetevők termékenként eltérhetnek. Lásd a csomagolást.",
+      "precautions": "A csomagolás szerint tárolandó. Ellenőrizze az allergéneket.",
+      "history": [
+        {
+          "year": "Origins",
+          "text": "A TRADITSII VKUSA márkát MOLDOVA területén alapították."
+        },
+        {
+          "year": "Development",
+          "text": "Idővel a TRADITSII VKUSA kibővítette termékkínálatát."
+        },
+        {
+          "year": "Today",
+          "text": "Ma a TRADITSII VKUSA termékeket világszerte élvezik."
+        }
+      ]
+    }
+  },
+  "name": "PICKLED CUCUMBERS TRADITSII VKUSA CRUNCHY"
+}

@@ -1,0 +1,5 @@
+{
+  "url": "https://stackoverflow.com/questions/70682569/search-form-input-search-as-you-type-with-html-javascript",
+  "title": "Search form input - Search \"as you type\" with HTML/Javascript - Stack Overflow",
+  "text": "I have following search form in an HTML page on website built with Django: <form method=\"get\"> <input class=\"form-control\" type=\"text\" name=\"q\" id=\"id_q\" placeholder=\"Search...\"> </form> I would like it to perform a search while typing (not having to press enter). I know we could use onchange or onkeyup, but I don't seem to be able to make it work. The javascript at the bottom of the page is as follows: <script type=\"text/javascript\"> document.getElementById(\"id_q\").value = \"{{query}}\" </script> Edit: I saw that my search works without the Javascript part above, but I still need to press on Enter. What would be a simple script to launch the search \"as you type\" without pressing Enter?"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "How to See All Bing Related Searches - GeekChamp",
+    "url": "https://geekchamp.com/how-to-see-all-bing-related-searches/",
+    "snippet": "Dec 24, 2025 · In this guide, we will explore how to view all Bing related searches, including built-in features and alternative techniques like using Bing’s search suggestions and third-party tools."
+  },
+  {
+    "title": "How do search engines generate related searches?",
+    "url": "https://stats.stackexchange.com/questions/121675/how-do-search-engines-generate-related-searches",
+    "snippet": "Oct 28, 2014 · From what I gather, there has to be some sort of a ranking algorithm where the words which the user enters first get bagged, and then the closest related search pops up, from a history of past related searches. The ranking is probably influenced by user's previous search history."
+  },
+  {
+    "title": "Bing Search Testing Zoomable & Sticky Related Searches",
+    "url": "https://garopub.com/bing-search-testing-zoomable-sticky-related-searches/",
+    "snippet": "Jul 5, 2025 · Microsoft is testing zoomable and sticky related searches in the Bing Search results page. So one variation has the related searches stick to the right top of the screen as you scroll and the other will zoom into the related search, as you hover your mouse cursor over the feature."
+  },
+  {
+    "title": "Bing API related searches - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/55901233/bing-api-related-searches",
+    "snippet": "Apr 29, 2019 · How does one get related searches to be included in response from Bing search API? I am trying to apply responseFilter with value RelatedSearches as per the documentation here: https://learn.micro..."
+  },
+  {
+    "title": "Introducing Bing generative search",
+    "url": "https://blogs.bing.com/search/July-2024/generativesearch",
+    "snippet": "Jul 24, 2024 · This new experience combines the foundation of Bing’s search results with the power of large and small language models (LLMs and SLMs). It understands the search query, reviews millions of sources of information, dynamically matches content, and generates search results in a new AI-generated layout to fulfill the intent of the user’s query ..."
+  },
+  {
+    "title": "Dia Mundial de Combate ao Câncer: um chamado global por informação ...",
+    "url": "https://www.oncoguia.org.br/conteudo/dia-mundial-de-combate-ao-cancer-um-chamado-global-por-informacao-prevencao-e-cuidado/18052/1425/",
+    "snippet": "2 days ago · Mais do que uma data no calendário, o Dia Mundial de Combate ao Câncer é um convite à reflexão e à ação contínua. Ele reforça que combater o câncer é garantir dignidade, escuta e cuidado integral às pessoas que vivem com a doença, além de fortalecer redes de apoio e iniciativas que assegurem que ninguém enfrente essa jornada ..."
+  }
+]

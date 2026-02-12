@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Cache-Control header - HTTP | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cache-Control",
+    "snippet": "Nov 16, 2025 · The HTTP Cache-Control header holds directives (instructions) in both requests and responses that control caching in …"
+  },
+  {
+    "title": "Is there a  tag to turn off caching in all browsers?",
+    "url": "https://stackoverflow.com/questions/1341089/is-there-a-meta-tag-to-turn-off-caching-in-all-browsers",
+    "snippet": "I found that Chrome responds better to Cache-Control: no-cache (100% conditional requests afterwards). \"no-store\" sometimes loaded …"
+  },
+  {
+    "title": "Cache directive \"no-cache\" | An explaination of the HTTP Cache-Con…",
+    "url": "https://no-cache.net/",
+    "snippet": "Cache directive \"no-cache\" An explaination of the HTTP Cache-Control header The Cache-Control header is used to specify directives for …"
+  },
+  {
+    "title": "nocache - npm",
+    "url": "https://www.npmjs.com/package/nocache",
+    "snippet": "Middleware to destroy caching. Latest version: 4.0.0, last published: 3 years ago. Start using nocache in your project by running `npm i …"
+  },
+  {
+    "title": "What's with all the cache/nocache stuff and weird filenames?",
+    "url": "https://support.google.com/code/answer/77858?hl=en",
+    "snippet": "The .nocache.js file contains JavaScript code that resolves the Deferred Binding configurations (such as browser detection, for instance) and …"
+  },
+  {
+    "title": "Is Whatsapp web down? - Lowyat.NET",
+    "url": "https://forum.lowyat.net/topic/5538738/all",
+    "snippet": "Sep 8, 2025 · Cannot link my device now."
+  }
+]

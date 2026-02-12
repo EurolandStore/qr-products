@@ -1,0 +1,27 @@
+[
+  {
+    "title": "请问游戏编程中的精灵（sprite）是什么意思呢？有什么作用呢？老外命名它的意图又是什么 …",
+    "url": "https://www.zhihu.com/question/435692887",
+    "snippet": "同样的，2D游戏开发，精灵是从软件架构来的；但这个架构在设计时，一定综合考虑了图像渲染、游戏逻辑等诸多方面，最终才决定“同时向图像组和游戏逻辑组开 …"
+  },
+  {
+    "title": "请问游戏编程中的精灵（sprite）是什么意思呢？有什么作用呢？老外命名它的意图又是什么 …",
+    "url": "https://www.zhihu.com/question/435692887/answers/updated",
+    "snippet": "我觉得就是精灵动画 可以参考我主页的 超级玛丽 最后面的源码 用8* 8或者16* 16的多张 tile 来实现动画帧 对比早期的游戏 确实是质的飞跃"
+  },
+  {
+    "title": "如何评价Sprite社的新作《everlasting flowers》？ - 知乎",
+    "url": "https://www.zhihu.com/question/636919186",
+    "snippet": "如何评价Sprite社的新作《everlasting flowers》？ 2023年11月17日，sprite社正式公布新作《everlasting flowers》的开场动画。 本作预定 …"
+  },
+  {
+    "title": "elf,fairy, genie, pixie,djinn,sprite的区别？ - 知乎",
+    "url": "https://www.zhihu.com/question/6330093137",
+    "snippet": "Dec 8, 2024 · elf，一般指那种个高、白毛、尖耳朵、生活在森林、会射箭、长寿的类人生物，也就是我们一般所说的 精灵。 fairy，通常译作 仙子。一般指有类 …"
+  },
+  {
+    "title": "我的unity中的创建菜单create中没有sprite，如何解决？恳请哪位大神帮我解答…",
+    "url": "https://www.zhihu.com/question/505497726",
+    "snippet": "Dec 12, 2021 · 不过我看你问这么基础的问题，应该是最近才接触的新手，使用的unity版本应该比较新。 在新版本中，unity把之前的功能拆到package …"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "url": "https://github.com/hcbille/UpNote-API",
+  "title": "GitHub - hcbille/UpNote-API",
+  "text": "This project is to add API functionality to UpNote since it's currently lacking. It uses an Android device as the API gateway with Termux as the software setup. - An Android device - preferably a device that does not require batteries since it will be on 24/7. I use a first-gen MiBox. - Install Termux and Termux:Boot and UpNote. I downloaded Termux and Termux:Boot from F-Droid and UpNote from Aurora since it's not compatible with my device on Google Play. - Clone the project. - Run \"install.sh\" to copy files from ./boot/ to ~/.termux/boot to make the project and ssh auto-run. - run \"runMe.sh\" to start the API upnote://x-callback-url/note/new?title=[title]&text=[text]¬ebook=[notebook] Code written with help by ChatGPT"
+}
