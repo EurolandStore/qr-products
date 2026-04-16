@@ -44,6 +44,9 @@ assets/*.jpeg
 assets/*.png
 assets/*.webp
 
+# Allow background image
+!assets/bg-store.jpg
+
 # But keep CSS and logo
 !assets/style.css
 !assets/logo.png
